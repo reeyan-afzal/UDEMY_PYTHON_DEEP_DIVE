@@ -7,9 +7,6 @@
 
 **Course Author: [Dr. Fred Baptiste](https://www.udemy.com/user/fredbaptiste/)**
 
-
 This repository contains **obsidian notes** and **ipynb** files. I was following this course alongside my **[NAVTTC-PCAP](https://github.com/reeyan-afzal/NAVTTC_PCAP)** training. Where I did got the chance to professionally implement the things I learnt in this course.
-
-For anyone who's interested in **Python Programming Language** I do recommend them these courses. *100% (10 out of 10)*
 
 For better visual experience try opening these notes in **[Obsidian](https://obsidian.md/)** 
