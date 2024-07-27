@@ -6,5 +6,13 @@
       ],
       "key": "R"
     }
+  ],
+  "execute-code:run-all-code-blocks-in-file": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "R"
+    }
   ]
 }

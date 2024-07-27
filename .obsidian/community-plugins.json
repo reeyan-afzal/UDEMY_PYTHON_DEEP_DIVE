@@ -4,5 +4,6 @@
   "restore-tab-key",
   "sheets",
   "obsidian-outliner",
-  "code-emitter"
+  "code-emitter",
+  "execute-code"
 ]
