@@ -13,7 +13,7 @@ For better visual experience try opening these notes in **[Obsidian](https://obs
 
 ---
 ### [Python Deep Dive 1 (Course Content)](https://github.com/reeyan-afzal/UDEMY_PYTHON_DEEP_DIVE/blob/dae04f3437d00c34f6654575094bfbfc977d1ee8/Python%20Deep%20Dive%20-%201%20(Functional)/0.Python%20Deep%20Dive%201.md)
-### [Python Deep Dive 2 (Course Content)](https://github.com/reeyan-afzal/UDEMY_PYTHON_DEEP_DIVE/blob/5be6f3b8cf3bc3d3cb73f13eb6803c3a4716bc81/Python%20Deep%20Dive%20-%202%20(Iterators%2C%20Generators)/0.Python%20Deep%20Dive%202.md)
-### [Python Deep Dive 3 (Course Content)](https://github.com/reeyan-afzal/UDEMY_PYTHON_DEEP_DIVE/blob/47ba6d101c19a5967dbb867763f0360cfae4bbef/Python%20Deep%20Dive%20-%203%20(Dictionaries%2C%20Sets%2C%20JSON)/0.Python%20Deep%20Dive%203.md)
+### [Python Deep Dive 2 (Course Content)](https://github.com/reeyan-afzal/UDEMY_PYTHON_DEEP_DIVE/blob/main/Python%20Deep%20Dive%20-%202%20(Iterators%2C%20Generators)/0.Python%20Deep%20Dive%202.md)
+### [Python Deep Dive 3 (Course Content)](https://github.com/reeyan-afzal/UDEMY_PYTHON_DEEP_DIVE/blob/main/Python%20Deep%20Dive%20-%203%20(Dictionaries%2C%20Sets%2C%20JSON)/0.Python%20Deep%20Dive%203.md)
 ### [Python Deep Dive 4 (Course Content)](https://github.com/reeyan-afzal/UDEMY_PYTHON_DEEP_DIVE/blob/main/Python%20Deep%20Dive%20-%204%20(OOP)/0.Python%20Deep%20Dive%204.md)
 ---
