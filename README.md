@@ -9,7 +9,7 @@
 
 This repository contains **obsidian notes** and **ipynb** files. I was following this course alongside my **[NAVTTC-PCAP](https://github.com/reeyan-afzal/NAVTTC_PCAP)** training. Where I did got the chance to professionally implement the things I learnt in this course.
 
-For better visual experience try opening these notes in **[Obsidian](https://obsidian.md/)** 
+For better visual experience try opening these notes in **[Obsidian](https://obsidian.md/)** (**in readmode**) and make sure to install all the plugins used in these notes especially for running **Python** code.
 
 ---
 ### [Python Deep Dive 1 (Course Content)](https://github.com/reeyan-afzal/UDEMY_PYTHON_DEEP_DIVE/blob/dae04f3437d00c34f6654575094bfbfc977d1ee8/Python%20Deep%20Dive%20-%201%20(Functional)/0.Python%20Deep%20Dive%201.md)
