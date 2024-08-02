@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python Deep Dive - 1 (Functional)/1.4.Conditionals.md",
+                "file": "Python Deep Dive - 1 (Functional)/2.3.Garbage Collection.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python Deep Dive - 1 (Functional)/1.4.Conditionals.md",
+                "file": "Python Deep Dive - 1 (Functional)/2.3.Garbage Collection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python Deep Dive - 1 (Functional)/1.4.Conditionals.md",
+                "file": "Python Deep Dive - 1 (Functional)/2.3.Garbage Collection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python Deep Dive - 1 (Functional)/1.4.Conditionals.md"
+                "file": "Python Deep Dive - 1 (Functional)/2.3.Garbage Collection.md"
               }
             }
           },
@@ -166,41 +166,43 @@
   },
   "active": "abc98ac546cfad4a",
   "lastOpenFiles": [
-    "Python Deep Dive - 1 (Functional)/1.0.Quick Refresher.md",
-    "Python Deep Dive - 1 (Functional)/1.6.Loops.md",
-    "README.md",
-    "Python Deep Dive - 1 (Functional)/0.Python Deep Dive 1.md",
-    "Python Deep Dive - 1 (Functional)/1.4.Conditionals.md",
-    "Python Deep Dive - 1 (Functional)/2.4.Reference Counting, Garbage Collection.md",
-    "Python Deep Dive - 1 (Functional)/1.3.Variable Names.md",
-    "Python Deep Dive - 1 (Functional)/1.5.Functions.md",
-    "Python Deep Dive - 1 (Functional)/1.1.Python Type Hierarchy.md",
-    "Python Deep Dive - 1 (Functional)/1.0.Quick Refresher.md~",
-    "Python Deep Dive - 1 (Functional)/1.7.Classes.md",
-    "Python Deep Dive - 1 (Functional)/1.2.Multi-Line Statements And Strings.md",
-    "[1.2.Multi-Line Statements And Strings.md",
+    "Python Deep Dive - 1 (Functional)/2.4.Dynamic vs Static typing.md",
+    "Python Deep Dive - 1 (Functional)/2.5.Variable Re-Assignment.md",
+    "Python Deep Dive - 1 (Functional)/2.6.Object Mutability.md",
+    "Python Deep Dive - 1 (Functional)/2.7.Function Arguments And Mutability.md",
+    "Python Deep Dive - 1 (Functional)/2.6.Object Mutability.md~",
+    "Python Deep Dive - 1 (Functional)/ScreenShots/2.6.ObectMutability.png",
+    "Python Deep Dive - 1 (Functional)/2.3.Garbage Collection.md",
     "Python Deep Dive - 1 (Functional)/2.0.Variables and Memory.md",
-    "Python Deep Dive - 1 (Functional)/2.3.Memory Management.md",
-    "Python Deep Dive - 1 (Functional)/2.8.Variable Equality.md",
-    "Python Deep Dive - 1 (Functional)/2.5.Dynamic vs Static typing.md",
-    "Python Deep Dive - 1 (Functional)/2.9.Everything is an object.md",
-    "Python Deep Dive - 1 (Functional)/2.7.Shared References.md",
-    "Python Deep Dive - 1 (Functional)/2.6.Mutability and immutability.md",
-    "2.6.Mutability and immutablity.md",
     "Python Deep Dive - 1 (Functional)/2.1.Memory References.md",
-    "Python Deep Dive - 1 (Functional)/2.2.What variables really are?.md",
+    "Python Deep Dive - 1 (Functional)/2.2.Reference Counting.md",
+    "Python Deep Dive - 1 (Functional)/2.5.Variable Re-Assignment.md~",
+    "Python Deep Dive - 1 (Functional)/1.7.Classes.md",
+    "Python Deep Dive - 1 (Functional)/1.6.Loops.md",
+    "Python Deep Dive - 1 (Functional)/1.5.Functions.md",
+    "Python Deep Dive - 1 (Functional)/1.4.Conditionals.md",
+    "Python Deep Dive - 1 (Functional)/1.3.Variable Names.md",
+    "Python Deep Dive - 1 (Functional)/1.2.Multi-Line Statements And Strings.md",
+    "Python Deep Dive - 1 (Functional)/1.1.Python Type Hierarchy.md",
+    "Python Deep Dive - 1 (Functional)/1.0.Quick Refresher.md",
+    "Python Deep Dive - 1 (Functional)/0.Python Deep Dive 1.md",
+    "Python Deep Dive - 1 (Functional)/2.4.Reference Counting, Garbage Collection.md",
+    "Python Deep Dive - 1 (Functional)/2.3.Garbage Collection.md~",
+    "Python Deep Dive - 1 (Functional)/ScreenShots/2.3.GarbageCollection1.png",
+    "Python Deep Dive - 1 (Functional)/ScreenShots",
+    "Python Deep Dive - 1 (Functional)/2.1.Memory References.md~",
+    "Python Deep Dive - 1 (Functional)/2.0.Variables.md",
+    "Python Deep Dive - 3 (Dictionaries, Sets, JSON)/0.Python Deep Dive 3.md",
     "Python Deep Dive - 2 (Iterators, Generators)/0.Python Deep Dive 2.md",
+    "README.md",
+    "Python Deep Dive - 1 (Functional)/1.0.Quick Refresher.md~",
+    "[1.2.Multi-Line Statements And Strings.md",
+    "Python Deep Dive - 1 (Functional)/2.9.Everything is an object.md",
+    "2.6.Mutability and immutablity.md",
     "Python Deep Dive - 1 (Functional)/1.7.Classes.md~",
     "Python Deep Dive - 1 (Functional)/1.6.Loops.md~",
-    "Python Deep Dive - 3 (Dictionaries, Sets, JSON)/0.Python Deep Dive 3.md",
-    "Python Deep Dive - 1 (Functional)/1.6.1.Break, Continue, and Try Statement.md",
     "Python Deep Dive - 1 (Functional)/1.5.Functions.md~",
     "Python Deep Dive - 4 (OOP)/0.Python Deep Dive 4.md~",
-    "Python Deep Dive - 3 (Dictionaries, Sets, JSON)/0.Python Deep Dive 3.md~",
-    "LICENSE",
-    "Python Deep Dive - 2 (Iterators, Generators)/0.Python Deep Dive 2 - Course Introduction.md~",
-    "Python Deep Dive - 1 (Functional)/1.4.Conditionals.md~",
-    "Python Deep Dive - 1 (Functional)/1.3.Variable Names.md~",
     "Python Deep Dive - 1 (Functional)/Untitled.canvas"
   ]
 }
