@@ -50,7 +50,6 @@
   "README.md": "LiClipboard",
   "Python Deep Dive - 1 (Functional)/1.6.Loops.md": "LiClipboard",
   "Python Deep Dive - 1 (Functional)/2.1.Memory References.md": "LiClipboard",
-  "Python Deep Dive - 1 (Functional)/2.9.Everything is an object.md": "LiClipboard",
   "Python Deep Dive - 1 (Functional)/2.0.Variables and Memory.md": "LiArchive",
   "Python Deep Dive - 1 (Functional)/1.1.Python Type Hierarchy.md": "LiClipboard",
   "Python Deep Dive - 1 (Functional)/2.2.Reference Counting.md": "LiClipboard",
@@ -58,5 +57,11 @@
   "Python Deep Dive - 1 (Functional)/2.4.Dynamic vs Static typing.md": "LiClipboard",
   "Python Deep Dive - 1 (Functional)/2.5.Variable Re-Assignment.md": "LiClipboard",
   "Python Deep Dive - 1 (Functional)/2.6.Object Mutability.md": "LiClipboard",
-  "Python Deep Dive - 1 (Functional)/2.7.Function Arguments And Mutability.md": "LiClipboard"
+  "Python Deep Dive - 1 (Functional)/2.7.Function Arguments And Mutability.md": "LiClipboard",
+  "Python Deep Dive - 1 (Functional)/2.8.Shared References And Mutability.md": "LiClipboard",
+  "Python Deep Dive - 1 (Functional)/2.9.Variable Equality.md": "LiClipboard",
+  "Python Deep Dive - 1 (Functional)/2.10.Everything is an Object.md": "LiClipboard",
+  "Python Deep Dive - 1 (Functional)/2.11.Python Optimizations - Interning.md": "LiClipboard",
+  "Python Deep Dive - 1 (Functional)/2.12.Python Optimizations - String Interning.md": "LiClipboard",
+  "Python Deep Dive - 1 (Functional)/2.13.Python Optimizations - PeepHoles.md": "LiClipboard"
 }
