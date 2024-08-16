@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python Deep Dive - 1 (Functional)/3.4.0.Complex Numbers.md",
+                "file": "Python Deep Dive - 1 (Functional)/3.5.2.Booleans - Precedence and Short-Circuiting.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python Deep Dive - 1 (Functional)/3.4.0.Complex Numbers.md",
+                "file": "Python Deep Dive - 1 (Functional)/3.5.2.Booleans - Precedence and Short-Circuiting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python Deep Dive - 1 (Functional)/3.4.0.Complex Numbers.md",
+                "file": "Python Deep Dive - 1 (Functional)/3.5.2.Booleans - Precedence and Short-Circuiting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python Deep Dive - 1 (Functional)/3.4.0.Complex Numbers.md"
+                "file": "Python Deep Dive - 1 (Functional)/3.5.2.Booleans - Precedence and Short-Circuiting.md"
               }
             }
           },
@@ -166,52 +166,52 @@
   },
   "active": "bd0c706eedb1d313",
   "lastOpenFiles": [
+    "Python Deep Dive - 1 (Functional)/3.5.1.Booleans - Truth Values.md",
+    "Python Deep Dive - 1 (Functional)/3.5.0.Booleans.md",
+    "Python Deep Dive - 1 (Functional)/3.4.0.Complex Numbers.md",
     "Python Deep Dive - 1 (Functional)/3.3.7.Decimals Performance Considerations.md",
     "Python Deep Dive - 1 (Functional)/3.3.6.Decimals Math Operations.md",
     "Python Deep Dive - 1 (Functional)/3.3.5.Decimals Constructors and Contexts.md",
     "Python Deep Dive - 1 (Functional)/3.3.4.Decimals.md",
-    "Python Deep Dive - 1 (Functional)/3.5.0.Booleans.md",
-    "README.md",
-    "Python Deep Dive - 4 (OOP)/0.Python Deep Dive 4.md",
-    "Python Deep Dive - 3 (Dictionaries, Sets, JSON)/0.Python Deep Dive 3.md",
-    "Python Deep Dive - 2 (Iterators, Generators)/0.Python Deep Dive 2.md",
-    "Python Deep Dive - 1 (Functional)/0.Python Deep Dive 1.md",
-    "Python Deep Dive - 1 (Functional)/3.0.Numeric Types.md",
-    "Python Deep Dive - 1 (Functional)/3.1.0.Integers Numbers.md",
     "Python Deep Dive - 1 (Functional)/3.3.3.Floats Rounding.md",
     "Python Deep Dive - 1 (Functional)/3.3.2.Floats Coercing to Integers.md",
+    "Python Deep Dive - 1 (Functional)/3.0.Numeric Types.md",
     "Python Deep Dive - 1 (Functional)/3.3.1.Floats Equality Testing.md",
     "Python Deep Dive - 1 (Functional)/3.3.0.Real Numbers, Floats Internal Representation.md",
     "Python Deep Dive - 1 (Functional)/3.2.0.Rational Numbers.md",
     "Python Deep Dive - 1 (Functional)/3.1.2.Integers Constructors and Bases.md",
     "Python Deep Dive - 1 (Functional)/3.1.1.Integers Operations.md",
-    "Python Deep Dive - 1 (Functional)/1.0.Quick Refresher.md",
-    "Python Deep Dive - 1 (Functional)/2.0.Variables and Memory.md",
+    "Python Deep Dive - 1 (Functional)/3.1.0.Integers Numbers.md",
     "Python Deep Dive - 1 (Functional)/2.13.Python Optimizations - PeepHoles.md",
     "Python Deep Dive - 1 (Functional)/2.12.Python Optimizations - String Interning.md",
     "Python Deep Dive - 1 (Functional)/2.11.Python Optimizations - Interning.md",
     "Python Deep Dive - 1 (Functional)/2.10.Everything is an Object.md",
     "Python Deep Dive - 1 (Functional)/2.9.Variable Equality.md",
+    "Python Deep Dive - 1 (Functional)/2.8.Shared References And Mutability.md",
+    "Python Deep Dive - 1 (Functional)/2.7.Function Arguments And Mutability.md",
+    "Python Deep Dive - 1 (Functional)/2.6.Object Mutability.md",
+    "Python Deep Dive - 1 (Functional)/2.5.Variable Re-Assignment.md",
+    "Python Deep Dive - 1 (Functional)/2.4.Dynamic vs Static typing.md",
+    "Python Deep Dive - 1 (Functional)/3.5.2.Booleans - Precedence and Short-Circuiting.md~",
+    "Python Deep Dive - 1 (Functional)/ScreenShots/3.5.2.BooleansPrecedenceAndShortCircuiting-1.png.crdownload",
+    "Python Deep Dive - 1 (Functional)/ScreenShots/3.5.2.BooleansPrecedenceAndShortCircuiting-1.png",
+    "Python Deep Dive - 1 (Functional)/3.5.1.Booleans - Truth Values.md~",
+    "Python Deep Dive - 1 (Functional)/ScreenShots/3.5.1.BooleansTruthValues-1.png",
+    "Python Deep Dive - 1 (Functional)/3.5.0.Booleans.md~",
+    "Python Deep Dive - 1 (Functional)/ScreenShots/3.5.0.Booleans-1.png.crdownload",
+    "Python Deep Dive - 1 (Functional)/ScreenShots/3.5.0.Booleans-1.png",
     "Python Deep Dive - 1 (Functional)/3.4.0.Complex Numbers.md~",
     "Python Deep Dive - 1 (Functional)/3.3.7.Decimals Performance Considerations.md~",
     "Python Deep Dive - 1 (Functional)/3.3.6.Decimals Math Operations.md~",
     "Python Deep Dive - 1 (Functional)/ScreenShots/3.3.6.DecimalsMathOperations-1.png",
     "Python Deep Dive - 1 (Functional)/3.3.5.Decimals Constructors and Contexts.md~",
     "Python Deep Dive - 1 (Functional)/3.3.4.Decimals.md~",
-    "Python Deep Dive - 1 (Functional)/3.3.3.Floats Rounding.md~",
     "Python Deep Dive - 1 (Functional)/ScreenShots/3.3.3.FloatsRounding-6.png",
     "Python Deep Dive - 1 (Functional)/ScreenShots/3.3.3.FloatsRounding-4.png",
     "Python Deep Dive - 1 (Functional)/ScreenShots/2.7.FunctionArugments&Mutability-2.png",
     "Python Deep Dive - 1 (Functional)/ScreenShots/3.3.3.FloatsRounding-5.png",
     "Python Deep Dive - 1 (Functional)/ScreenShots/3.3.3.FloatsRounding-1.png",
     "Python Deep Dive - 1 (Functional)/ScreenShots/3.3.3.FloatsRounding-3.png",
-    "Python Deep Dive - 1 (Functional)/ScreenShots/3.3.3.FloatsRounding-2.png",
-    "Python Deep Dive - 1 (Functional)/3.3.2.Floats Coercing to Integers.md~",
-    "Python Deep Dive - 1 (Functional)/ScreenShots/3.3.2.FloatsCoercingToIntegers.png",
-    "Python Deep Dive - 1 (Functional)/3.3.1.Floats Equality Testing.md~",
-    "Python Deep Dive - 1 (Functional)/:w",
-    "Python Deep Dive - 1 (Functional)/3.3.0.Real Numbers, Floats Internal Representation.md~",
-    "Python Deep Dive - 1 (Functional)/ScreenShots/3.2.0.RationalNumbers.png",
     "Python Deep Dive - 1 (Functional)/Untitled.canvas"
   ]
 }
