@@ -6,5 +6,8 @@
   "obsidian-outliner",
   "code-emitter",
   "execute-code",
-  "mathlive"
+  "mathlive",
+  "obsidian-pandoc",
+  "obsidian-zotero-desktop-connector",
+  "obsidian-regex-replace"
 ]

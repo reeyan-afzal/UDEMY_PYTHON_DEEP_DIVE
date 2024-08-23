@@ -1,7 +1,7 @@
 {
   "promptDelete": false,
   "pdfExportSettings": {
-    "includeName": false,
+    "includeName": true,
     "pageSize": "A4",
     "landscape": false,
     "margin": "1",
@@ -9,5 +9,7 @@
   },
   "alwaysUpdateLinks": true,
   "livePreview": true,
-  "vimMode": true
+  "vimMode": true,
+  "newLinkFormat": "relative",
+  "attachmentFolderPath": "Assets"
 }

@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiSettings",
       "🐍",
       "LiArchive",
       "LiClipboard",
-      "LiFolder",
-      "📁"
+      "LiFolder"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -82,5 +82,6 @@
   "Python Deep Dive - 1 (Functional)/3.5.2.Booleans - Precedence and Short-Circuiting.md": "LiClipboard",
   "Python Deep Dive - 1 (Functional)/3.5.3.Booleans - Boolean Operators.md": "LiClipboard",
   "Python Deep Dive - 1 (Functional)/3.5.4.Booleans - Comparison Operators.md": "LiClipboard",
-  "Python Deep Dive - 1 (Functional)/3.3.0.Real Numbers, Floats Internal Representation.md": "LiClipboard"
+  "Python Deep Dive - 1 (Functional)/3.3.0.Real Numbers, Floats Internal Representation.md": "LiClipboard",
+  "Assets": "LiSettings"
 }
