@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python Deep Dive - 1 (Functional)/4.0.Functions.md",
+                "file": "Python Deep Dive - 1 (Functional)/0.Python Deep Dive 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348.5
+    "width": 385.5
   },
   "right": {
     "id": "73f204daf120e1a4",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python Deep Dive - 1 (Functional)/4.0.Functions.md",
+                "file": "Python Deep Dive - 1 (Functional)/0.Python Deep Dive 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python Deep Dive - 1 (Functional)/4.0.Functions.md",
+                "file": "Python Deep Dive - 1 (Functional)/0.Python Deep Dive 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python Deep Dive - 1 (Functional)/4.0.Functions.md"
+                "file": "Python Deep Dive - 1 (Functional)/0.Python Deep Dive 1.md"
               }
             }
           },
@@ -166,42 +166,43 @@
   },
   "active": "6a9d3dbb2ab55a5d",
   "lastOpenFiles": [
-    "Python Deep Dive - 1 (Functional)/5.0.Decorators.md",
+    "Python Deep Dive - 1 (Functional)/8.9.0.Command Line Arguments.md",
     "Python Deep Dive - 1 (Functional)/0.Python Deep Dive 1.md",
+    "Python Deep Dive - 1 (Functional)/8.0.Extras.md",
+    "Python Deep Dive - 1 (Functional)/8.1.0.Python 3.10.md",
+    "Python Deep Dive - 1 (Functional)/8.2.0.Python 3.9.md",
+    "Python Deep Dive - 1 (Functional)/8.11.0.Simulating a Simple Switch in Python.md",
+    "Python Deep Dive - 1 (Functional)/8.10.0.Sentniel Values for Parameter Default.md",
+    "Python Deep Dive - 1 (Functional)/8.8.0.Don't Use args and kwargs Blindly.md",
+    "Python Deep Dive - 1 (Functional)/8.7.0.Timing Code using timeit.md",
+    "Python Deep Dive - 1 (Functional)/8.6.2.Random Samples.md",
+    "Python Deep Dive - 1 (Functional)/8.6.1.Random Choices.md",
+    "Python Deep Dive - 1 (Functional)/8.6.0.Random Seeds.md",
+    "Python Deep Dive - 1 (Functional)/8.5.0.Additional Resources.md",
+    "Python Deep Dive - 1 (Functional)/8.4.4.Python 3.6 - f-Strings.md",
+    "Python Deep Dive - 1 (Functional)/8.4.3.Python 3.6 - Preserved Order of kwargs and Named Tuple Application.md",
+    "Python Deep Dive - 1 (Functional)/8.4.2.Python 3.6 - Underscores in Numeric Literals.md",
+    "Python Deep Dive - 1 (Functional)/8.4.1.Python 3.6 - Dictionary Ordering.md",
+    "Python Deep Dive - 1 (Functional)/8.4.0.Python 3.6.md",
+    "Python Deep Dive - 1 (Functional)/8.3.0.Python 3.8.md",
     "Python Deep Dive - 1 (Functional)/7.0.Modules, Packages and Namespaces.md",
-    "Python Deep Dive - 1 (Functional)/6.0.Tuples as Data Structures.md",
-    "Python Deep Dive - 1 (Functional)/1.0.Quick Refresher.md",
-    "Python Deep Dive - 1 (Functional)/4.0.Functions.md",
-    "Python Deep Dive - 1 (Functional)/3.5.4.Booleans - Comparison Operators.md",
-    "Python Deep Dive - 1 (Functional)/3.0.Numeric Types.md",
-    "Python Deep Dive - 1 (Functional)/1.2.Multi-Line Statements And Strings.md",
+    "Python Deep Dive - 1 (Functional)/7.4.0.__main__.md",
+    "Python Deep Dive - 1 (Functional)/6.0.Tuples.md",
+    "Python Deep Dive - 1 (Functional)/6.1.0.Tuples as Data Structures.md",
+    "Python Deep Dive - 1 (Functional)/6.2.3.Named Tuples - Application.md",
+    "Python Deep Dive - 1 (Functional)/7.5.0.Modules Recap.md",
+    "Python Deep Dive - 1 (Functional)/7.6.0.What is a Package?.md",
+    "Assets/Screenshot 2024-08-26 at 11.45.22 AM.png",
+    "Python Deep Dive - 1 (Functional)/4.1.0.Argument",
+    "Python Deep Dive - 1 (Functional)/4.0.Functions.md~",
     "Python Deep Dive - 1 (Functional)/3.5.4.Booleans - Comparison Operators.md~",
-    "Python Deep Dive - 1 (Functional)/3.5.3.Booleans - Boolean Operators.md",
-    "Python Deep Dive - 1 (Functional)/4.0.Comparison Operators.md",
     "Python Deep Dive - 1 (Functional)/3.5.3.Booleans - Boolean Operators.md~",
-    "Python Deep Dive - 1 (Functional)/3.5.3.Booleans - Boolean Operators 1.md",
     "Python Deep Dive - 1 (Functional)/~$2.Multi-Line Statements And Strings.docx",
     "Python Deep Dive - 1 (Functional)/1.2.Multi-Line Statements And Strings.docx",
-    "Python Deep Dive - 1 (Functional)/1.3.Variable Names.md",
-    "Python Deep Dive - 1 (Functional)/1.5.Functions.md",
-    "Python Deep Dive - 1 (Functional)/1.4.Conditionals.md",
-    "Python Deep Dive - 1 (Functional)/1.6.Loops.md",
-    "Python Deep Dive - 1 (Functional)/1.7.Classes.md",
-    "Python Deep Dive - 1 (Functional)/2.0.Variables and Memory.md",
-    "Python Deep Dive - 1 (Functional)/3.5.1.Booleans - Truth Values.md",
     "Python Deep Dive - 1 (Functional)/output.pdf",
     "Python Deep Dive - 1 (Functional)/3.5.1.Booleans - Truth Values.docx",
     "Python Deep Dive - 1 (Functional)/~$output.docx",
     "Python Deep Dive - 1 (Functional)/output.docx",
-    "Python Deep Dive - 1 (Functional)/~$5.1.Booleans - Truth Values.docx",
-    "Python Deep Dive - 1 (Functional)/3.5.2.Booleans - Precedence and Short-Circuiting.md",
-    "Python Deep Dive - 1 (Functional)/3.5.0.Booleans.md",
-    "Python Deep Dive - 1 (Functional)/3.4.0.Complex Numbers.md",
-    "Python Deep Dive - 1 (Functional)/3.3.7.Decimals Performance Considerations.md",
-    "Python Deep Dive - 1 (Functional)/3.3.6.Decimals Math Operations.md",
-    "Python Deep Dive - 1 (Functional)/3.3.5.Decimals Constructors and Contexts.md",
-    "Python Deep Dive - 1 (Functional)/3.3.4.Decimals.md",
-    "Assets/course4_snippets",
     "Assets/course1_snippets/3.5.0.Booleans-1.png",
     "Assets/course1_snippets/3.2.0.RationalNumbers.png",
     "Assets/course1_snippets/3.1.1.IntegersOperations-1.png",
@@ -211,7 +212,6 @@
     "Assets/course1_snippets/3.3.3.FloatsRounding-6.png",
     "Assets/course1_snippets/3.3.3.FloatsRounding-4.png",
     "Assets/course1_snippets/2.7.FunctionArugments&Mutability-2.png",
-    "Assets/course1_snippets/3.3.3.FloatsRounding-5.png",
     "Python Deep Dive - 1 (Functional)/Untitled.canvas"
   ]
 }
