@@ -146,7 +146,6 @@
   "Python Deep Dive - 1 (Functional)/8.4.0.Python 3.6.md": "LiClipboard",
   "Python Deep Dive - 1 (Functional)/8.4.1.Python 3.6 - Dictionary Ordering.md": "LiClipboard",
   "Python Deep Dive - 1 (Functional)/8.4.2.Python 3.6 - Underscores in Numeric Literals.md": "LiClipboard",
-  "Python Deep Dive - 1 (Functional)/8.4.3.Python 3.6 - Preserved Order of kwargs and Named Tuple Application.md": "LiClipboard",
   "Python Deep Dive - 1 (Functional)/8.4.4.Python 3.6 - f-Strings.md": "LiClipboard",
   "Python Deep Dive - 1 (Functional)/8.5.0.Additional Resources.md": "LiClipboard",
   "Python Deep Dive - 1 (Functional)/8.6.0.Random Seeds.md": "LiClipboard",
@@ -156,5 +155,6 @@
   "Python Deep Dive - 1 (Functional)/8.8.0.Don't Use args and kwargs Blindly.md": "LiClipboard",
   "Python Deep Dive - 1 (Functional)/8.9.0.Command Line Arguments.md": "LiClipboard",
   "Python Deep Dive - 1 (Functional)/8.10.0.Sentniel Values for Parameter Default.md": "LiClipboard",
-  "Python Deep Dive - 1 (Functional)/8.11.0.Simulating a Simple Switch in Python.md": "LiClipboard"
+  "Python Deep Dive - 1 (Functional)/8.11.0.Simulating a Simple Switch in Python.md": "LiClipboard",
+  "Python Deep Dive - 1 (Functional)/8.4.3.Python 3.6 - Preserved Order of kwargs & Named Tuple Application.md": "LiClipboard"
 }
