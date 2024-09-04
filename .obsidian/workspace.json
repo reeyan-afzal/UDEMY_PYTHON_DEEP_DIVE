@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python Deep Dive - 1 (Functional)/4.7.0.Lambda Expressions.md",
-                "mode": "preview",
+                "file": "Python Deep Dive - 1 (Functional)/4.9.0.Function Introspection.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python Deep Dive - 1 (Functional)/4.7.0.Lambda Expressions.md",
+                "file": "Python Deep Dive - 1 (Functional)/4.9.0.Function Introspection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python Deep Dive - 1 (Functional)/4.7.0.Lambda Expressions.md",
+                "file": "Python Deep Dive - 1 (Functional)/4.9.0.Function Introspection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python Deep Dive - 1 (Functional)/4.7.0.Lambda Expressions.md"
+                "file": "Python Deep Dive - 1 (Functional)/4.9.0.Function Introspection.md"
               }
             }
           },
@@ -166,47 +166,47 @@
   },
   "active": "6a9d3dbb2ab55a5d",
   "lastOpenFiles": [
-    "Python Deep Dive - 1 (Functional)/4.7.0.Lambda Expressions.md~",
+    "Python Deep Dive - 1 (Functional)/4.8.0.Challenge - Randomize an Iterable using Sorted!.md",
     "Python Deep Dive - 1 (Functional)/4.7.1.Lambdas and Sorting.md",
+    "Python Deep Dive - 1 (Functional)/4.7.0.Lambda Expressions.md",
     "Python Deep Dive - 1 (Functional)/4.6.0.Docstrings and Annotations.md",
-    "Python Deep Dive - 1 (Functional)/4.6.0.Docstrings and Annotations.md~",
     "Python Deep Dive - 1 (Functional)/4.5.0.Parameter Defaults.md",
-    "Python Deep Dive - 1 (Functional)/4.2.1.Extended Unpacking.md",
     "Python Deep Dive - 1 (Functional)/4.4.0.Application - A Simple Function Timer.md",
-    "Python Deep Dive - 1 (Functional)/4.3.0.Args.md",
-    "Python Deep Dive - 1 (Functional)/3.3.6.Decimals Math Operations.md",
-    "Python Deep Dive - 1 (Functional)/4.5.0.Parameter Defaults.md~",
-    "Python Deep Dive - 1 (Functional)/4.9.0.Function Introspection.md",
-    "Python Deep Dive - 1 (Functional)/4.12.0.Reducing Functions.md",
-    "Python Deep Dive - 1 (Functional)/4.13.0.The Operator Module.md",
-    "Python Deep Dive - 1 (Functional)/5.0.Decorators.md",
-    "Python Deep Dive - 1 (Functional)/5.1.1.NonLocal Scopes.md",
-    "Python Deep Dive - 1 (Functional)/5.2.2.Closures - Application - Part 2.md",
-    "Python Deep Dive - 1 (Functional)/5.3.0.Decorators - Part 1.md",
-    "Python Deep Dive - 1 (Functional)/5.4.0.Decorator Application - Timer.md",
-    "Python Deep Dive - 1 (Functional)/0.Python Deep Dive 1.md",
-    "Python Deep Dive - 1 (Functional)/4.4.0.Application - A Simple Function Timer.md~",
     "Python Deep Dive - 1 (Functional)/4.3.3.Put It All Together.md",
+    "Python Deep Dive - 1 (Functional)/4.3.2.Kwargs.md",
+    "Python Deep Dive - 1 (Functional)/4.3.1.Keyword Arguments.md",
+    "Python Deep Dive - 1 (Functional)/4.3.0.Args.md",
+    "Python Deep Dive - 1 (Functional)/4.2.1.Extended Unpacking.md",
+    "Python Deep Dive - 1 (Functional)/4.2.0.Unpacking Iterables.md",
+    "Python Deep Dive - 1 (Functional)/4.1.1.Positional and Keyword Arguments.md",
+    "Python Deep Dive - 1 (Functional)/4.1.0.Arguments vs Parameters.md",
+    "Python Deep Dive - 1 (Functional)/4.0.Functions.md",
+    "Python Deep Dive - 1 (Functional)/3.5.4.Booleans - Comparison Operators.md",
+    "Python Deep Dive - 1 (Functional)/3.5.3.Booleans - Boolean Operators.md",
+    "Python Deep Dive - 1 (Functional)/3.5.2.Booleans - Precedence and Short-Circuiting.md",
+    "Python Deep Dive - 1 (Functional)/3.5.1.Booleans - Truth Values.md",
+    "Python Deep Dive - 1 (Functional)/3.5.0.Booleans.md",
+    "Python Deep Dive - 1 (Functional)/3.4.0.Complex Numbers.md",
+    "Python Deep Dive - 1 (Functional)/3.3.7.Decimals Performance Considerations.md",
+    "Python Deep Dive - 1 (Functional)/3.3.6.Decimals Math Operations.md",
+    "Python Deep Dive - 1 (Functional)/3.3.5.Decimals Constructors and Contexts.md",
+    "Python Deep Dive - 1 (Functional)/3.3.4.Decimals.md",
+    "Python Deep Dive - 1 (Functional)/3.3.3.Floats Rounding.md",
+    "Python Deep Dive - 1 (Functional)/4.9.0.Function Introspection.md~",
+    "Python Deep Dive - 1 (Functional)/4.8.0.Challenge - Randomize an Iterable using Sorted!.md~",
+    "Python Deep Dive - 1 (Functional)/4.7.1.Lambdas and Sorting.md~",
+    "Python Deep Dive - 1 (Functional)/4.7.0.Lambda Expressions.md~",
+    "Python Deep Dive - 1 (Functional)/4.6.0.Docstrings and Annotations.md~",
+    "Python Deep Dive - 1 (Functional)/4.5.0.Parameter Defaults.md~",
+    "Python Deep Dive - 1 (Functional)/4.4.0.Application - A Simple Function Timer.md~",
     "Python Deep Dive - 1 (Functional)/4.3.3.Put It All Together.md~",
     "Assets/course1_snippets/4.3.3.PutItAllTogether-1.png",
     "Assets/course1_snippets/4.3.3.PutItAllTogether-2.png",
-    "Python Deep Dive - 1 (Functional)/4.3.2.Kwargs.md",
     "Python Deep Dive - 1 (Functional)/4.3.2.Kwargs.md~",
-    "Python Deep Dive - 1 (Functional)/4.3.1.Keyword Arguments.md",
-    "Python Deep Dive - 1 (Functional)/4.0.Functions.md",
     "Python Deep Dive - 1 (Functional)/4.3.1.Keyword Arguments.md~",
     "Assets/course1_snippets/4.3.1.KeywordArguments-1.png",
-    "Python Deep Dive - 1 (Functional)/4.3.0.Args.md~",
-    "Python Deep Dive - 1 (Functional)/4.2.1.Extended Unpacking.md~",
-    "Python Deep Dive - 1 (Functional)/4.7.0.Lambda Expressions.md",
-    "Python Deep Dive - 1 (Functional)/4.2.0.Unpacking Iterables.md",
-    "Python Deep Dive - 1 (Functional)/4.1.1.Positional and Keyword Arguments.md",
-    "Python Deep Dive - 1 (Functional)/4.2.0.Unpacking Iterables.md~",
     "Assets/course1_snippets/4.2.0.UnpackingIterables-1.png",
     "Assets/Screenshot 2024-08-27 at 1.42.06 PM.png",
-    "Python Deep Dive - 1 (Functional)/4.1.1.Positional and Keyword Arguments.md~",
-    "Python Deep Dive - 1 (Functional)/3.3.5.Decimals Constructors and Contexts.md",
-    "Python Deep Dive - 1 (Functional)/3.5.2.Booleans - Precedence and Short-Circuiting.md",
     "Assets/Screenshot 2024-08-26 at 11.45.22 AM.png",
     "Assets/course1_snippets/3.5.0.Booleans-1.png",
     "Assets/course1_snippets/3.2.0.RationalNumbers.png",
