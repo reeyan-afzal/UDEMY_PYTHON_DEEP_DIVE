@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python Deep Dive - 1 (Functional)/3.0.0.Numeric Types.md",
+                "file": "Python Deep Dive - 1 (Functional)/0.1.0.Python Deep Dive 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python Deep Dive - 1 (Functional)/3.0.0.Numeric Types.md",
+                "file": "Python Deep Dive - 1 (Functional)/0.1.0.Python Deep Dive 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python Deep Dive - 1 (Functional)/3.0.0.Numeric Types.md",
+                "file": "Python Deep Dive - 1 (Functional)/0.1.0.Python Deep Dive 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python Deep Dive - 1 (Functional)/3.0.0.Numeric Types.md"
+                "file": "Python Deep Dive - 1 (Functional)/0.1.0.Python Deep Dive 1.md"
               }
             }
           },
@@ -166,31 +166,32 @@
   },
   "active": "484760079083b237",
   "lastOpenFiles": [
+    "Python Deep Dive - 1 (Functional)/8.11.0.Simulating a Simple Switch in Python.md",
     "Python Deep Dive - 1 (Functional)/0.1.0.Python Deep Dive 1.md",
-    "Python Deep Dive - 1 (Functional)/2.0.0.Variables and Memory.md",
-    "Python Deep Dive - 1 (Functional)/1.0.0.Quick Refresher.md",
-    "Python Deep Dive - 1 (Functional)/1.0.0.Quick Refresher - GitHub.md",
-    "Python Deep Dive - 1 (Functional)/3.0.0.Numeric Types.md",
-    "().md",
-    "Python Deep Dive - 1 (Functional)/3.1.0.Integers Numbers.md",
-    "Python Deep Dive - 1 (Functional)/3.3.7.Decimals Performance Considerations.md",
-    "Python Deep Dive - 1 (Functional)/2.0.0.Variables and Memory - GitHub.md",
-    "Python Deep Dive - 1 (Functional)/2.13.0.Python Optimizations - PeepHoles.md",
-    "Python Deep Dive - 1 (Functional)/2.2.0.Reference Counting.md",
-    "Python Deep Dive - 1 (Functional)/1.7.0.Classes.md",
-    "Python Deep Dive - 1 (Functional)/1.6.0.Loops.md",
-    "Python Deep Dive - 1 (Functional)/0.1.0.Python Deep Dive 1 - GitHub.md",
-    "Python Deep Dive - 1 (Functional)/8.10.0.Sentinel Values for Parameter Default.md",
-    "Python Deep Dive - 3 (Dictionaries, Sets, JSON)/0.3.0.Python Deep Dive 3.md",
-    "Python Deep Dive - 2 (Iterators, Generators)/0.2.0.Python Deep Dive 2.md",
-    "Python Deep Dive - 4 (OOP)/0.4.0.Python Deep Dive 4.md",
-    "README.md",
-    "Python Deep Dive - 4 (OOP)/8.14.2.Python 3.8 and 3.7.md",
-    "Python Deep Dive - 4 (OOP)/8.14.1.Python 3.9.md",
-    "Python Deep Dive - 4 (OOP)/8.14.0.Python 3.10.md",
-    "Python Deep Dive - 4 (OOP)/8.13.0.Accessors - Application.md",
-    "Python Deep Dive - 4 (OOP)/8.12.0.Attribute Write Accessors.md",
-    "Python Deep Dive - 4 (OOP)/8.11.0.Attribute Read Accessors.md",
+    "Python Deep Dive - 1 (Functional)/8.8.0.Don't use args and kwargs Blindly.md",
+    "Python Deep Dive - 1 (Functional)/8.7.0.Timing Code using timeit.md",
+    "Python Deep Dive - 1 (Functional)/8.4.3.Python 3.6 - Preserved Order of kwargs & Named Tuple Application.md",
+    "Python Deep Dive - 1 (Functional)/8.4.1.Python 3.6 - Dictionary Ordering.md",
+    "Python Deep Dive - 1 (Functional)/7.8.0.Importing from Zip Archives.md",
+    "Python Deep Dive - 1 (Functional)/7.6.3.Structuring Packages - Part 2.md",
+    "Python Deep Dive - 1 (Functional)/7.2.2.Import Variants and Misconceptions.md",
+    "Python Deep Dive - 1 (Functional)/4.2.0.Unpacking Iterables.md",
+    "Python Deep Dive - 1 (Functional)/7.0.0.Modules, Packages, and Namespaces.md",
+    "Python Deep Dive - 1 (Functional)/6.2.3.Named Tuples - Application.md",
+    "Python Deep Dive - 1 (Functional)/6.2.2.Named Tuples - DocStrings and Default Values.md",
+    "Python Deep Dive - 1 (Functional)/6.2.1.Named Tuples - Modifying and Extending.md",
+    "Python Deep Dive - 1 (Functional)/6.1.0.Tuples as Data Structures.md",
+    "Python Deep Dive - 1 (Functional)/6.0.0.Tuples.md",
+    "Python Deep Dive - 1 (Functional)/5.4.6.Decorator Application - Dispatching - Part 2.md",
+    "Python Deep Dive - 1 (Functional)/5.4.5.Decorator Application - Dispatching - Part 1.md",
+    "Python Deep Dive - 1 (Functional)/5.4.3.Decorator Application - Decorator Class.md",
+    "Python Deep Dive - 1 (Functional)/5.4.1.Decorator Application - Logger, Stacked Decorators.md",
+    "Python Deep Dive - 1 (Functional)/5.2.2.Closures - Application - Part 2.md",
+    "Python Deep Dive - 1 (Functional)/5.2.0.Closures.md",
+    "Python Deep Dive - 1 (Functional)/5.1.1.NonLocal Scopes.md",
+    "Python Deep Dive - 1 (Functional)/5.2.1.Closures - Application - Part 1.md",
+    "Python Deep Dive - 1 (Functional)/4.14.0.The Operator Module.md",
+    "Python Deep Dive - 1 (Functional)/4.11.0.Map, Filter, Zip, and List Comprehensions.md",
     "Python Deep Dive - 4 (OOP)/Untitled",
     "Python Deep Dive - 1 (Functional)/4.14.0.The Operator Module.md~",
     "Python Deep Dive - 1 (Functional)/4.13.0.Partial Functions.md~",
