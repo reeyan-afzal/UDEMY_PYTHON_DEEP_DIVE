@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiGithub",
       "LiSettings",
       "🐍",
       "LiArchive",
-      "LiClipboard",
-      "LiFolder"
+      "LiClipboard"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -117,7 +117,6 @@
   "Python Deep Dive - 1 (Functional)/8.6.2.Random Samples.md": "LiClipboard",
   "Python Deep Dive - 1 (Functional)/8.7.0.Timing Code using timeit.md": "LiClipboard",
   "Python Deep Dive - 1 (Functional)/8.9.0.Command Line Arguments.md": "LiClipboard",
-  "Python Deep Dive - 1 (Functional)/8.10.0.Sentniel Values for Parameter Default.md": "LiClipboard",
   "Python Deep Dive - 1 (Functional)/8.11.0.Simulating a Simple Switch in Python.md": "LiClipboard",
   "Python Deep Dive - 1 (Functional)/8.4.3.Python 3.6 - Preserved Order of kwargs & Named Tuple Application.md": "LiClipboard",
   "Python Deep Dive - 1 (Functional)/4.3.1.Keyword Arguments.md": "LiClipboard",
@@ -151,7 +150,6 @@
   "Python Deep Dive - 1 (Functional)/4.0.0.Functions.md": "LiArchive",
   "Python Deep Dive - 1 (Functional)/5.0.0.Decorators.md": "LiArchive",
   "Python Deep Dive - 1 (Functional)/6.0.0.Tuples.md": "LiArchive",
-  "Python Deep Dive - 1 (Functional)/7.0.0.Modules, Packages and Namespaces.md": "LiArchive",
   "Python Deep Dive - 1 (Functional)/8.0.0.Extras.md": "LiArchive",
   "Python Deep Dive - 1 (Functional)/0.1.0.Python Deep Dive 1.md": "🐍",
   "Python Deep Dive - 2 (Iterators, Generators)/0.2.0.Python Deep Dive 2.md": "🐍",
@@ -376,5 +374,11 @@
   "Python Deep Dive - 4 (OOP)/5.10.0.Project Description.md": "LiClipboard",
   "Python Deep Dive - 4 (OOP)/5.10.2.Project Solution - Part 2.md": "LiClipboard",
   "Python Deep Dive - 4 (OOP)/5.10.1.Project Solution - Part 1.md": "LiClipboard",
-  "Python Deep Dive - 4 (OOP)/6.0.0.Enumerations - Content.md": "LiArchive"
+  "Python Deep Dive - 4 (OOP)/6.0.0.Enumerations - Content.md": "LiArchive",
+  "Python Deep Dive - 1 (Functional)/0.1.0.Python Deep Dive 1 - GitHub.md": "LiGithub",
+  "Python Deep Dive - 1 (Functional)/7.0.0.Modules, Packages, and Namespaces.md": "LiArchive",
+  "Python Deep Dive - 1 (Functional)/8.10.0.Sentinel Values for Parameter Default.md": "LiClipboard",
+  "Python Deep Dive - 1 (Functional)/1.0.0.Quick Refresher - GitHub.md": "LiGithub",
+  "Python Deep Dive - 1 (Functional)/2.0.0.Variables and Memory - GitHub.md": "LiGithub",
+  "Python Deep Dive - 1 (Functional)/3.0.0.Numeric Types - GitHub.md": "LiGithub"
 }
