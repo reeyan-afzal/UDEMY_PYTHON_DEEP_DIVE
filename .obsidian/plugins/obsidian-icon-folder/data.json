@@ -97,7 +97,6 @@
   "Python Deep Dive - 1 (Functional)/7.3.0.Reloading Modules.md": "LiClipboard",
   "Python Deep Dive - 1 (Functional)/7.4.0.__main__.md": "LiClipboard",
   "Python Deep Dive - 1 (Functional)/7.5.0.Modules Recap.md": "LiClipboard",
-  "Python Deep Dive - 1 (Functional)/7.6.1.Why Packages?.md": "LiClipboard",
   "Python Deep Dive - 1 (Functional)/7.6.2.Structuring Packages - Part 1.md": "LiClipboard",
   "Python Deep Dive - 1 (Functional)/7.6.3.Structuring Packages - Part 2.md": "LiClipboard",
   "Python Deep Dive - 1 (Functional)/7.7.0.Namespace Packages.md": "LiClipboard",
@@ -376,5 +375,6 @@
   "Python Deep Dive - 1 (Functional)/8.10.0.Sentinel Values for Parameter Default.md": "LiClipboard",
   "Python Deep Dive - 1 (Functional)/3.0.0.Numeric Types.md": "LiArchive",
   "Python Deep Dive - 1 (Functional)/7.1.0.What is a Module.md": "LiClipboard",
-  "Python Deep Dive - 1 (Functional)/7.6.0.What is a Package.md": "LiClipboard"
+  "Python Deep Dive - 1 (Functional)/7.6.0.What is a Package.md": "LiClipboard",
+  "Python Deep Dive - 1 (Functional)/7.6.1.Why Packages.md": "LiClipboard"
 }
