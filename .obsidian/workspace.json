@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "037de2774137f070",
+        "id": "6699d78a9e35f5a3",
         "type": "tabs",
         "children": [
           {
-            "id": "31afba85de439a28",
+            "id": "484760079083b237",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python Deep Dive - 1 (Functional)/4.14.0.The Operator Module.md",
-                "mode": "preview",
+                "file": "Python Deep Dive - 4 (OOP)/8.14.2.Python 3.8 and 3.7.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python Deep Dive - 1 (Functional)/4.14.0.The Operator Module.md",
+                "file": "Python Deep Dive - 4 (OOP)/8.14.2.Python 3.8 and 3.7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python Deep Dive - 1 (Functional)/4.14.0.The Operator Module.md",
+                "file": "Python Deep Dive - 4 (OOP)/8.14.2.Python 3.8 and 3.7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python Deep Dive - 1 (Functional)/4.14.0.The Operator Module.md"
+                "file": "Python Deep Dive - 4 (OOP)/8.14.2.Python 3.8 and 3.7.md"
               }
             }
           },
@@ -164,44 +164,45 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "31afba85de439a28",
+  "active": "484760079083b237",
   "lastOpenFiles": [
+    "Python Deep Dive - 4 (OOP)/8.14.1.Python 3.9.md",
+    "Python Deep Dive - 4 (OOP)/8.14.2.Python 3.8 and 3.7.md",
+    "Python Deep Dive - 4 (OOP)/8.14.0.Python 3.10.md",
+    "Python Deep Dive - 4 (OOP)/8.13.0.Accessors - Application.md",
+    "Python Deep Dive - 4 (OOP)/8.12.0.Attribute Write Accessors.md",
+    "Python Deep Dive - 4 (OOP)/8.11.0.Attribute Read Accessors.md",
+    "Python Deep Dive - 4 (OOP)/8.10.2.Metaprogramming - Application 3.md",
+    "Python Deep Dive - 4 (OOP)/8.10.1.Metaprogramming - Application 2.md",
+    "Python Deep Dive - 4 (OOP)/8.10.0.Metaprogramming - Application 1.md",
+    "Python Deep Dive - 4 (OOP)/8.9.0.Classes, Metaclasses, and __call__.md",
+    "Python Deep Dive - 4 (OOP)/8.8.0.The __prepare__ Method.md",
+    "Python Deep Dive - 4 (OOP)/8.7.2.Metaclass Parameters.md",
+    "Python Deep Dive - 4 (OOP)/8.7.1.Metaclass vs Class Decorators.md",
+    "Python Deep Dive - 4 (OOP)/8.6.0.Class Decorators.md",
+    "Python Deep Dive - 4 (OOP)/8.5.0.MetaClasses.md",
+    "Python Deep Dive - 4 (OOP)/8.4.0.Inherting from type.md",
+    "Python Deep Dive - 4 (OOP)/8.3.0.How Classes are Created.md",
+    "Python Deep Dive - 4 (OOP)/8.2.0.The __new__ Method.md",
+    "Python Deep Dive - 4 (OOP)/8.1.0.Decorators and Descriptors.md",
+    "Python Deep Dive - 4 (OOP)/8.0.0.MetaProgramming.md",
+    "Python Deep Dive - 4 (OOP)/7.5.1.Project Solution.md",
+    "Python Deep Dive - 4 (OOP)/7.5.0.Project Description.md",
+    "Python Deep Dive - 4 (OOP)/7.4.0.Custom Exceptions.md",
+    "Python Deep Dive - 4 (OOP)/7.3.0.Raising Exceptions.md",
+    "Python Deep Dive - 4 (OOP)/7.2.0.Handling Exceptions.md",
+    "Python Deep Dive - 4 (OOP)/7.1.0.Python Exceptions.md",
+    "Python Deep Dive - 4 (OOP)/Untitled",
     "Python Deep Dive - 1 (Functional)/4.14.0.The Operator Module.md~",
-    "Python Deep Dive - 1 (Functional)/4.0.Functions.md",
-    "Python Deep Dive - 1 (Functional)/4.14.0.The Operator Module.md",
-    "Python Deep Dive - 1 (Functional)/5.0.Decorators.md",
-    "Python Deep Dive - 1 (Functional)/4.13.0.Partial Functions.md",
     "Python Deep Dive - 1 (Functional)/4.13.0.Partial Functions.md~",
-    "Python Deep Dive - 1 (Functional)/4.9.0.Function Introspection.md",
-    "Python Deep Dive - 1 (Functional)/4.10.0.Callables.md",
-    "Python Deep Dive - 1 (Functional)/4.11.0.Map, Filter, Zip, and List Comprehensions.md",
-    "Python Deep Dive - 1 (Functional)/4.12.0.Reducing Functions.md",
-    "Python Deep Dive - 1 (Functional)/0.Python Deep Dive 1.md",
-    "Python Deep Dive - 1 (Functional)/1.0.Quick Refresher.md",
     "Python Deep Dive - 1 (Functional)/4.12.0.Reducing Functions.md~",
     "Assets/course1_snippets/4.11.0.Map,Filter,Zip,ListComprehension-1.png",
-    "Python Deep Dive - 1 (Functional)/3.5.4.Booleans - Comparison Operators.md",
-    "Python Deep Dive - 1 (Functional)/4.1.0.Arguments vs Parameters.md",
-    "Python Deep Dive - 1 (Functional)/4.1.1.Positional and Keyword Arguments.md",
-    "Python Deep Dive - 1 (Functional)/4.2.0.Unpacking Iterables.md",
-    "Python Deep Dive - 1 (Functional)/4.2.1.Extended Unpacking.md",
-    "Python Deep Dive - 1 (Functional)/4.3.0.Args.md",
-    "Python Deep Dive - 1 (Functional)/4.3.1.Keyword Arguments.md",
-    "Python Deep Dive - 1 (Functional)/4.3.2.Kwargs.md",
-    "Python Deep Dive - 1 (Functional)/4.3.3.Put It All Together.md",
-    "Python Deep Dive - 1 (Functional)/4.4.0.Application - A Simple Function Timer.md",
-    "Python Deep Dive - 1 (Functional)/4.5.0.Parameter Defaults.md",
-    "Python Deep Dive - 1 (Functional)/4.6.0.Docstrings and Annotations.md",
-    "Python Deep Dive - 1 (Functional)/4.7.0.Lambda Expressions.md",
-    "Python Deep Dive - 1 (Functional)/4.7.1.Lambdas and Sorting.md",
-    "Python Deep Dive - 1 (Functional)/4.8.0.Challenge - Randomize an Iterable using Sorted!.md",
     "Python Deep Dive - 1 (Functional)/4.11.0.Map, Filter, Zip and List Comprehensions.md~",
     "Python Deep Dive - 1 (Functional)/4.10.0.Callables.md~",
     "Python Deep Dive - 1 (Functional)/4.9.0.Function Introspection.md~",
     "Python Deep Dive - 1 (Functional)/4.8.0.Challenge - Randomize an Iterable using Sorted!.md~",
     "Python Deep Dive - 1 (Functional)/4.7.1.Lambdas and Sorting.md~",
     "Python Deep Dive - 1 (Functional)/4.7.0.Lambda Expressions.md~",
-    "Python Deep Dive - 1 (Functional)/4.6.0.Docstrings and Annotations.md~",
     "Assets/course1_snippets/4.3.3.PutItAllTogether-1.png",
     "Assets/course1_snippets/4.3.3.PutItAllTogether-2.png",
     "Assets/course1_snippets/4.3.1.KeywordArguments-1.png",
