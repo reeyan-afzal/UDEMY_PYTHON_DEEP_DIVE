@@ -146,7 +146,6 @@
   "Python Deep Dive - 1 (Functional)/2.11.0.Python Optimizations - Interning.md": "LiClipboard",
   "Python Deep Dive - 1 (Functional)/2.12.0.Python Optimizations - String Interning.md": "LiClipboard",
   "Python Deep Dive - 1 (Functional)/2.13.0.Python Optimizations - PeepHoles.md": "LiClipboard",
-  "Python Deep Dive - 1 (Functional)/3.0.0.Numeric Types.md": "LiArchive",
   "Python Deep Dive - 1 (Functional)/4.0.0.Functions.md": "LiArchive",
   "Python Deep Dive - 1 (Functional)/5.0.0.Decorators.md": "LiArchive",
   "Python Deep Dive - 1 (Functional)/6.0.0.Tuples.md": "LiArchive",
@@ -375,10 +374,7 @@
   "Python Deep Dive - 4 (OOP)/5.10.2.Project Solution - Part 2.md": "LiClipboard",
   "Python Deep Dive - 4 (OOP)/5.10.1.Project Solution - Part 1.md": "LiClipboard",
   "Python Deep Dive - 4 (OOP)/6.0.0.Enumerations - Content.md": "LiArchive",
-  "Python Deep Dive - 1 (Functional)/0.1.0.Python Deep Dive 1 - GitHub.md": "LiGithub",
   "Python Deep Dive - 1 (Functional)/7.0.0.Modules, Packages, and Namespaces.md": "LiArchive",
   "Python Deep Dive - 1 (Functional)/8.10.0.Sentinel Values for Parameter Default.md": "LiClipboard",
-  "Python Deep Dive - 1 (Functional)/1.0.0.Quick Refresher - GitHub.md": "LiGithub",
-  "Python Deep Dive - 1 (Functional)/2.0.0.Variables and Memory - GitHub.md": "LiGithub",
-  "Python Deep Dive - 1 (Functional)/3.0.0.Numeric Types - GitHub.md": "LiGithub"
+  "Python Deep Dive - 1 (Functional)/3.0.0.Numeric Types.md": "LiArchive"
 }
