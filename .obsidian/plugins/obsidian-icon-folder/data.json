@@ -101,9 +101,7 @@
   "Python Deep Dive - 1 (Functional)/4.8.0.Challenge - Randomize an Iterable using Sorted!.md": "LiClipboard",
   "Python Deep Dive - 1 (Functional)/4.9.0.Function Introspection.md": "LiClipboard",
   "Python Deep Dive - 1 (Functional)/4.10.0.Callables.md": "LiClipboard",
-  "Python Deep Dive - 1 (Functional)/4.11.0.Map, Filter, Zip and List Comprehensions.md": "LiClipboard",
   "Python Deep Dive - 1 (Functional)/4.12.0.Reducing Functions.md": "LiClipboard",
-  "Python Deep Dive - 1 (Functional)/4.13.0.The Operator Module.md": "LiClipboard",
   "Python Deep Dive - 1 (Functional)/5.1.0.Global and Local Scopes.md": "LiClipboard",
   "Python Deep Dive - 1 (Functional)/5.1.1.NonLocal Scopes.md": "LiClipboard",
   "Python Deep Dive - 1 (Functional)/5.2.0.Closures.md": "LiClipboard",
@@ -156,5 +154,8 @@
   "Python Deep Dive - 1 (Functional)/8.11.0.Simulating a Simple Switch in Python.md": "LiClipboard",
   "Python Deep Dive - 1 (Functional)/8.4.3.Python 3.6 - Preserved Order of kwargs & Named Tuple Application.md": "LiClipboard",
   "Python Deep Dive - 1 (Functional)/4.3.1.Keyword Arguments.md": "LiClipboard",
-  "Python Deep Dive - 1 (Functional)/4.3.3.Put It All Together.md": "LiClipboard"
+  "Python Deep Dive - 1 (Functional)/4.3.3.Put It All Together.md": "LiClipboard",
+  "Python Deep Dive - 1 (Functional)/4.11.0.Map, Filter, Zip, and List Comprehensions.md": "LiClipboard",
+  "Python Deep Dive - 1 (Functional)/4.14.0.The Operator Module.md": "LiClipboard",
+  "Python Deep Dive - 1 (Functional)/4.13.0.Partial Functions.md": "LiClipboard"
 }
