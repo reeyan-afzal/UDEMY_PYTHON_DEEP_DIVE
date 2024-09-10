@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python Deep Dive - 1 (Functional)/2.3.0.Garbage Collection.md",
+                "file": "Python Deep Dive - 1 (Functional)/2.7.0.Function Arguments And Mutability.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python Deep Dive - 1 (Functional)/2.3.0.Garbage Collection.md",
+                "file": "Python Deep Dive - 1 (Functional)/2.7.0.Function Arguments And Mutability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python Deep Dive - 1 (Functional)/2.3.0.Garbage Collection.md",
+                "file": "Python Deep Dive - 1 (Functional)/2.7.0.Function Arguments And Mutability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python Deep Dive - 1 (Functional)/2.3.0.Garbage Collection.md"
+                "file": "Python Deep Dive - 1 (Functional)/2.7.0.Function Arguments And Mutability.md"
               }
             }
           },
@@ -166,6 +166,10 @@
   },
   "active": "484760079083b237",
   "lastOpenFiles": [
+    "Python Deep Dive - 1 (Functional)/2.6.0.Object Mutability.md",
+    "Python Deep Dive - 1 (Functional)/2.5.0.Variable Re-Assignment.md",
+    "Python Deep Dive - 1 (Functional)/2.4.0.Dynamic vs Static typing.md",
+    "Python Deep Dive - 1 (Functional)/2.3.0.Garbage Collection.md",
     "Python Deep Dive - 1 (Functional)/2.2.0.Reference Counting.md",
     "Python Deep Dive - 1 (Functional)/2.1.0.Memory References.md",
     "Python Deep Dive - 1 (Functional)/2.0.0.Variables and Memory.md",
@@ -188,10 +192,6 @@
     "Python Deep Dive - 1 (Functional)/8.4.2.Python 3.6 - Underscores in Numeric Literals.md",
     "Python Deep Dive - 1 (Functional)/7.1.0.What is a Module.md",
     "Python Deep Dive - 1 (Functional)/6.0.0.Tuples.md",
-    "Python Deep Dive - 1 (Functional)/5.4.4.Decorator Application - Decorating Classes.md",
-    "Python Deep Dive - 1 (Functional)/4.0.0.Functions.md",
-    "Python Deep Dive - 1 (Functional)/3.5.4.Booleans - Comparison Operators.md",
-    "Python Deep Dive - 1 (Functional)/8.11.0.Simulating a Simple Switch in Python.md",
     "Python Deep Dive - 4 (OOP)/Untitled",
     "Python Deep Dive - 1 (Functional)/4.14.0.The Operator Module.md~",
     "Python Deep Dive - 1 (Functional)/4.13.0.Partial Functions.md~",
