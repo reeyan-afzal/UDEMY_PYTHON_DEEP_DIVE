@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Python Deep Dive - 1 (Functional)/2.0.0.Variables and Memory.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Python Deep Dive - 1 (Functional)/2.0.0.Variables and Memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Python Deep Dive - 1 (Functional)/2.0.0.Variables and Memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Python Deep Dive - 1 (Functional)/2.0.0.Variables and Memory.md"
               }
             }
           },
@@ -166,33 +166,33 @@
   },
   "active": "484760079083b237",
   "lastOpenFiles": [
-    "Python Deep Dive - 1 (Functional)/0.1.0.Python Deep Dive 1.md",
+    "Python Deep Dive - 1 (Functional)/2.7.0.Function Arguments And Mutability.md",
+    "Python Deep Dive - 1 (Functional)/2.0.0.Variables and Memory.md",
+    "Python Deep Dive - 1 (Functional)/2.1.0.Memory References.md",
+    "Python Deep Dive - 1 (Functional)/1.1.0.Python Type Hierarchy.md",
+    "Python Deep Dive - 1 (Functional)/2.13.0.Python Optimizations - PeepHoles.md",
+    "Python Deep Dive - 1 (Functional)/2.12.0.Python Optimizations - String Interning.md",
+    "Python Deep Dive - 1 (Functional)/2.11.0.Python Optimizations - Interning.md",
+    "Python Deep Dive - 1 (Functional)/2.10.0.Everything is an Object.md",
+    "Python Deep Dive - 1 (Functional)/2.9.0.Variable Equality.md",
+    "Python Deep Dive - 1 (Functional)/2.8.0.Shared References And Mutability.md",
+    "Python Deep Dive - 1 (Functional)/2.6.0.Object Mutability.md",
+    "Python Deep Dive - 1 (Functional)/2.4.0.Dynamic vs Static typing.md",
+    "Python Deep Dive - 1 (Functional)/2.3.0.Garbage Collection.md",
+    "Python Deep Dive - 1 (Functional)/2.2.0.Reference Counting.md",
+    "Python Deep Dive - 1 (Functional)/2.5.0.Variable Re-Assignment.md",
+    "Python Deep Dive - 1 (Functional)/1.0.0.Quick Refresher.md",
     "README.md",
+    "Python Deep Dive - 1 (Functional)/0.1.0.Python Deep Dive 1.md",
     "Python Deep Dive - 2 (Iterators_Generators)/0.2.0.Python Deep Dive 2.md",
     "Python Deep Dive - 3 (Dictionaries_Sets_JSON)/0.3.0.Python Deep Dive 3.md",
     "Python Deep Dive - 4 (OOP)/0.4.0.Python Deep Dive 4.md",
     "Python.md",
     "Python Deep Dive - 2 (Iterators%2C Generators)/0.2.0.Python Deep Dive 2.md",
     "Python Deep Dive - 2 (Iterators%2C Generators)",
-    "Python Deep Dive - 1 (Functional)/1.0.0.Quick Refresher.md",
     "Python Deep Dive - 1 (Functional)/4.14.0.The Operator Module.md",
     "Python Deep Dive - 1 (Functional)/4.13.0.Partial Functions.md",
     "Python Deep Dive - 1 (Functional)/4.12.0.Reducing Functions.md",
-    "Python Deep Dive - 1 (Functional)/4.11.0.Map, Filter, Zip, and List Comprehensions.md",
-    "Python Deep Dive - 1 (Functional)/4.10.0.Callables.md",
-    "Python Deep Dive - 1 (Functional)/4.9.0.Function Introspection.md",
-    "Python Deep Dive - 1 (Functional)/4.8.0.Challenge - Randomize an Iterable using Sorted!.md",
-    "Python Deep Dive - 1 (Functional)/4.7.1.Lambdas and Sorting.md",
-    "Python Deep Dive - 1 (Functional)/4.7.0.Lambda Expressions.md",
-    "Python Deep Dive - 1 (Functional)/4.6.0.Docstrings and Annotations.md",
-    "Python Deep Dive - 1 (Functional)/4.5.0.Parameter Defaults.md",
-    "Python Deep Dive - 1 (Functional)/4.4.0.Application - A Simple Function Timer.md",
-    "Python Deep Dive - 1 (Functional)/4.3.3.Put It All Together.md",
-    "Python Deep Dive - 1 (Functional)/4.3.2.Kwargs.md",
-    "Python Deep Dive - 1 (Functional)/4.3.1.Keyword Arguments.md",
-    "Python Deep Dive - 1 (Functional)/4.3.0.Args.md",
-    "Python Deep Dive - 1 (Functional)/4.2.1.Extended Unpacking.md",
-    "Python Deep Dive - 1 (Functional)/4.2.0.Unpacking Iterables.md",
     "Python Deep Dive - 4 (OOP)/Untitled",
     "Python Deep Dive - 1 (Functional)/4.14.0.The Operator Module.md~",
     "Python Deep Dive - 1 (Functional)/4.13.0.Partial Functions.md~",
