@@ -53,7 +53,6 @@
   "Python Deep Dive - 1 (Functional)/3.5.2.Booleans - Precedence and Short-Circuiting.md": "LiClipboard",
   "Python Deep Dive - 1 (Functional)/3.5.3.Booleans - Boolean Operators.md": "LiClipboard",
   "Python Deep Dive - 1 (Functional)/3.5.4.Booleans - Comparison Operators.md": "LiClipboard",
-  "Python Deep Dive - 1 (Functional)/3.3.0.Real Numbers, Floats Internal Representation.md": "LiClipboard",
   "Assets": "LiSettings",
   "Python Deep Dive - 1 (Functional)/4.1.0.Arguments vs Parameters.md": "LiClipboard",
   "Python Deep Dive - 1 (Functional)/4.1.1.Positional and Keyword Arguments.md": "LiClipboard",
@@ -116,7 +115,6 @@
   "Python Deep Dive - 1 (Functional)/8.4.3.Python 3.6 - Preserved Order of kwargs & Named Tuple Application.md": "LiClipboard",
   "Python Deep Dive - 1 (Functional)/4.3.1.Keyword Arguments.md": "LiClipboard",
   "Python Deep Dive - 1 (Functional)/4.3.3.Put It All Together.md": "LiClipboard",
-  "Python Deep Dive - 1 (Functional)/4.11.0.Map, Filter, Zip, and List Comprehensions.md": "LiClipboard",
   "Python Deep Dive - 1 (Functional)/4.14.0.The Operator Module.md": "LiClipboard",
   "Python Deep Dive - 1 (Functional)/4.13.0.Partial Functions.md": "LiClipboard",
   "Python Deep Dive - 1 (Functional)/1.0.0.Quick Refresher.md": "LiArchive",
@@ -376,5 +374,7 @@
   "Python Deep Dive - 3 (Dictionaries_Sets_JSON)/6.4.0.The MappingProxy Type.md": "LiClipboard",
   "Python Deep Dive - 3 (Dictionaries_Sets_JSON)/6.0.0.Extras.md": "LiArchive",
   "Python Deep Dive - 3 (Dictionaries_Sets_JSON)/6.2.0.Python 3.9.md": "LiClipboard",
-  "Python Deep Dive - 3 (Dictionaries_Sets_JSON)/6.5.0.Marshmallow.md": "LiClipboard"
+  "Python Deep Dive - 3 (Dictionaries_Sets_JSON)/6.5.0.Marshmallow.md": "LiClipboard",
+  "Python Deep Dive - 1 (Functional)/4.11.0.Map Filter Zip and List Comprehensions.md": "LiClipboard",
+  "Python Deep Dive - 1 (Functional)/3.3.0.Real Numbers Floats Internal Representation.md": "LiClipboard"
 }
