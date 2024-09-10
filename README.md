@@ -12,8 +12,8 @@ This repository contains **obsidian notes** and **ipynb** files. I was following
 For a better visual experience try opening these notes in **[Obsidian](https://obsidian.md/)** (**in readmode**) and make sure to install all the plugins used in these notes, especially for running **Python** code.
 
 ---
-### [Python Deep Dive 1 (Course Content)](Python%20Deep%20Dive%20-%201%20(Functional)/0.1.0.Python%20Deep%20Dive%201.md)
-### [Python Deep Dive 2 (Course Content)](https://github.com/reeyan-afzal/UDEMY_PYTHON_DEEP_DIVE/blob/main/Python%20Deep%20Dive%20-%202%20(Iterators%2C%20Generators)/0.2.0.Python%20Deep%20Dive%202.md)
-### [Python Deep Dive 3 (Course Content)](https://github.com/reeyan-afzal/UDEMY_PYTHON_DEEP_DIVE/blob/main/Python%20Deep%20Dive%20-%203%20(Dictionaries%2C%20Sets%2C%20JSON)/0.3.0.Python%20Deep%20Dive%203.md)
+### [Python Deep Dive 1 (Course Content)](https://github.com/reeyan-afzal/UDEMY_PYTHON_DEEP_DIVE/blob/main/Python%20Deep%20Dive%20-%201%20(Functional)/0.1.0.Python%20Deep%20Dive%201.md)
+### [Python Deep Dive 2 (Course Content)](https://github.com/reeyan-afzal/UDEMY_PYTHON_DEEP_DIVE/blob/main/Python%20Deep%20Dive%20-%202%20(Iterators_Generators)/0.2.0.Python%20Deep%20Dive%202.md)
+### [Python Deep Dive 3 (Course Content)](https://github.com/reeyan-afzal/UDEMY_PYTHON_DEEP_DIVE/blob/main/Python%20Deep%20Dive%20-%203%20(Dictionaries_Sets_JSON)/0.3.0.Python%20Deep%20Dive%203.md)
 ### [Python Deep Dive 4 (Course Content)](https://github.com/reeyan-afzal/UDEMY_PYTHON_DEEP_DIVE/blob/main/Python%20Deep%20Dive%20-%204%20(OOP)/0.4.0.Python%20Deep%20Dive%204.md)
 ---
