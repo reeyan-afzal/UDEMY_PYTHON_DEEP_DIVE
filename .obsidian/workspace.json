@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python Deep Dive - 1 (Functional)/2.0.0.Variables and Memory.md",
+                "file": "Python Deep Dive - 1 (Functional)/4.2.1.Extended Unpacking.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python Deep Dive - 1 (Functional)/2.0.0.Variables and Memory.md",
+                "file": "Python Deep Dive - 1 (Functional)/4.2.1.Extended Unpacking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python Deep Dive - 1 (Functional)/2.0.0.Variables and Memory.md",
+                "file": "Python Deep Dive - 1 (Functional)/4.2.1.Extended Unpacking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python Deep Dive - 1 (Functional)/2.0.0.Variables and Memory.md"
+                "file": "Python Deep Dive - 1 (Functional)/4.2.1.Extended Unpacking.md"
               }
             }
           },
@@ -164,10 +165,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "484760079083b237",
+  "active": "d775e930a379cdc4",
   "lastOpenFiles": [
-    "Python Deep Dive - 1 (Functional)/2.7.0.Function Arguments And Mutability.md",
+    "Python Deep Dive - 1 (Functional)/3.3.4.Decimals.md",
     "Python Deep Dive - 1 (Functional)/2.0.0.Variables and Memory.md",
+    "Python Deep Dive - 1 (Functional)/2.7.0.Function Arguments And Mutability.md",
     "Python Deep Dive - 1 (Functional)/2.1.0.Memory References.md",
     "Python Deep Dive - 1 (Functional)/1.1.0.Python Type Hierarchy.md",
     "Python Deep Dive - 1 (Functional)/2.13.0.Python Optimizations - PeepHoles.md",
@@ -192,7 +194,6 @@
     "Python Deep Dive - 2 (Iterators%2C Generators)",
     "Python Deep Dive - 1 (Functional)/4.14.0.The Operator Module.md",
     "Python Deep Dive - 1 (Functional)/4.13.0.Partial Functions.md",
-    "Python Deep Dive - 1 (Functional)/4.12.0.Reducing Functions.md",
     "Python Deep Dive - 4 (OOP)/Untitled",
     "Python Deep Dive - 1 (Functional)/4.14.0.The Operator Module.md~",
     "Python Deep Dive - 1 (Functional)/4.13.0.Partial Functions.md~",
