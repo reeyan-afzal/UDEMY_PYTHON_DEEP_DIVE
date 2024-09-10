@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python Deep Dive - 1 (Functional)/1.0.0.Quick Refresher.md",
+                "file": "Python Deep Dive - 1 (Functional)/2.3.0.Garbage Collection.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python Deep Dive - 1 (Functional)/1.0.0.Quick Refresher.md",
+                "file": "Python Deep Dive - 1 (Functional)/2.3.0.Garbage Collection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python Deep Dive - 1 (Functional)/1.0.0.Quick Refresher.md",
+                "file": "Python Deep Dive - 1 (Functional)/2.3.0.Garbage Collection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python Deep Dive - 1 (Functional)/1.0.0.Quick Refresher.md"
+                "file": "Python Deep Dive - 1 (Functional)/2.3.0.Garbage Collection.md"
               }
             }
           },
@@ -166,16 +166,21 @@
   },
   "active": "484760079083b237",
   "lastOpenFiles": [
+    "Python Deep Dive - 1 (Functional)/2.2.0.Reference Counting.md",
+    "Python Deep Dive - 1 (Functional)/2.1.0.Memory References.md",
+    "Python Deep Dive - 1 (Functional)/2.0.0.Variables and Memory.md",
     "Python Deep Dive - 1 (Functional)/1.7.0.Classes.md",
-    "Python Deep Dive - 1 (Functional)/1.0.0.Quick Refresher.md",
-    "Python Deep Dive - 4 (OOP)/1.0.0.Classes.md",
     "Python Deep Dive - 1 (Functional)/1.6.0.Loops.md",
-    "Python Deep Dive - 1 (Functional)/1.3.0.Variable Names.md",
-    "Python Deep Dive - 1 (Functional)/1.2.0.Multi-Line Statements And Strings.md",
-    "Python Deep Dive - 1 (Functional)/0.1.0.Python Deep Dive 1.md",
-    "Python Deep Dive - 1 (Functional)/1.1.0.Python Type Hierarchy.md",
     "Python Deep Dive - 1 (Functional)/1.5.0.Functions.md",
     "Python Deep Dive - 1 (Functional)/1.4.0.Conditionals.md",
+    "Python Deep Dive - 1 (Functional)/1.3.0.Variable Names.md",
+    "Python Deep Dive - 1 (Functional)/1.2.0.Multi-Line Statements And Strings.md",
+    "Python Deep Dive - 1 (Functional)/1.1.0.Python Type Hierarchy.md",
+    "Python Deep Dive - 1 (Functional)/3.0.0.Numeric Types.md",
+    "Python Deep Dive - 1 (Functional)/3.1.0.Integers Numbers.md",
+    "Python Deep Dive - 1 (Functional)/1.0.0.Quick Refresher.md",
+    "Python Deep Dive - 4 (OOP)/1.0.0.Classes.md",
+    "Python Deep Dive - 1 (Functional)/0.1.0.Python Deep Dive 1.md",
     "Python Deep Dive - 1 (Functional)/7.6.1.Why Packages.md",
     "Python Deep Dive - 1 (Functional)/8.8.0.Don't use args and kwargs Blindly.md",
     "Python Deep Dive - 1 (Functional)/8.7.0.Timing Code using timeit.md",
@@ -184,14 +189,9 @@
     "Python Deep Dive - 1 (Functional)/7.1.0.What is a Module.md",
     "Python Deep Dive - 1 (Functional)/6.0.0.Tuples.md",
     "Python Deep Dive - 1 (Functional)/5.4.4.Decorator Application - Decorating Classes.md",
-    "Python Deep Dive - 1 (Functional)/3.0.0.Numeric Types.md",
-    "Python Deep Dive - 1 (Functional)/2.0.0.Variables and Memory.md",
     "Python Deep Dive - 1 (Functional)/4.0.0.Functions.md",
     "Python Deep Dive - 1 (Functional)/3.5.4.Booleans - Comparison Operators.md",
     "Python Deep Dive - 1 (Functional)/8.11.0.Simulating a Simple Switch in Python.md",
-    "Python Deep Dive - 1 (Functional)/8.4.1.Python 3.6 - Dictionary Ordering.md",
-    "Python Deep Dive - 1 (Functional)/7.8.0.Importing from Zip Archives.md",
-    "Python Deep Dive - 1 (Functional)/7.6.3.Structuring Packages - Part 2.md",
     "Python Deep Dive - 4 (OOP)/Untitled",
     "Python Deep Dive - 1 (Functional)/4.14.0.The Operator Module.md~",
     "Python Deep Dive - 1 (Functional)/4.13.0.Partial Functions.md~",
