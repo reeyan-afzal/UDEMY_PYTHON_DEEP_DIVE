@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python Deep Dive - 4 (OOP)/0.4.0.Python Deep Dive 4.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python Deep Dive - 4 (OOP)/0.4.0.Python Deep Dive 4.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python Deep Dive - 4 (OOP)/0.4.0.Python Deep Dive 4.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python Deep Dive - 4 (OOP)/0.4.0.Python Deep Dive 4.md"
+                "file": "README.md"
               }
             }
           },
@@ -166,10 +166,11 @@
   },
   "active": "484760079083b237",
   "lastOpenFiles": [
+    "Python Deep Dive - 1 (Functional)/0.1.0.Python Deep Dive 1.md",
+    "README.md",
+    "Python Deep Dive - 2 (Iterators_Generators)/0.2.0.Python Deep Dive 2.md",
     "Python Deep Dive - 3 (Dictionaries_Sets_JSON)/0.3.0.Python Deep Dive 3.md",
     "Python Deep Dive - 4 (OOP)/0.4.0.Python Deep Dive 4.md",
-    "Python Deep Dive - 2 (Iterators_Generators)/0.2.0.Python Deep Dive 2.md",
-    "Python Deep Dive - 1 (Functional)/0.1.0.Python Deep Dive 1.md",
     "Python.md",
     "Python Deep Dive - 2 (Iterators%2C Generators)/0.2.0.Python Deep Dive 2.md",
     "Python Deep Dive - 2 (Iterators%2C Generators)",
