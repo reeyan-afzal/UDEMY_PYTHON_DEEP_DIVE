@@ -236,7 +236,7 @@
   "Python Deep Dive - 2 (Iterators_Generators)/1.7.0.Custom Sequences - Part 1.md": "LiClipboard",
   "Python Deep Dive - 2 (Iterators_Generators)/1.8.0.In-Place Concatenation and Repetition.md": "LiClipboard",
   "Python Deep Dive - 2 (Iterators_Generators)/1.9.0.Assignments in Mutable Sequences.md": "LiClipboard",
-  "Python Deep Dive - 2 (Iterators_Generators)/2.0.0.Iterables And Iterators - Content.md": "LiClipboard",
+  "Python Deep Dive - 2 (Iterators_Generators)/2.0.0.Iterables And Iterators - Content.md": "LiArchive",
   "Python Deep Dive - 2 (Iterators_Generators)/1.3.0.List vs Tuples.md": "LiClipboard",
   "Python Deep Dive - 2 (Iterators_Generators)/1.4.0.Index Base and Slice Bounds - Rationale.md": "LiClipboard",
   "Python Deep Dive - 2 (Iterators_Generators)/1.5.0.Copying Sequences.md": "LiClipboard",
@@ -253,7 +253,6 @@
   "Python Deep Dive - 2 (Iterators_Generators)/2.11.0.Reversed Iteration.md": "LiClipboard",
   "Python Deep Dive - 2 (Iterators_Generators)/2.5.0.Lazy Iterables.md": "LiClipboard",
   "Python Deep Dive - 2 (Iterators_Generators)/2.6.0.Python's Built-In Iterables and Iterators.md": "LiClipboard",
-  "Python Deep Dive - 2 (Iterators_Generators)/2.8.0.The iter() Function.md": "LiClipboard",
   "Python Deep Dive - 2 (Iterators_Generators)/2.9.0.Iterating Callables.md": "LiClipboard",
   "Python Deep Dive - 2 (Iterators_Generators)/3.1.0.Yielding And Generator Functions.md": "LiClipboard",
   "Python Deep Dive - 2 (Iterators_Generators)/3.4.0.Example - Card Deck.md": "LiClipboard",
@@ -410,5 +409,6 @@
   "Python Deep Dive - 4 (OOP)/8.14.1.Python 3.9.md": "LiClipboard",
   "Python Deep Dive - 4 (OOP)/8.14.2.Python 3.8 and 3.7.md": "LiClipboard",
   "Python Deep Dive - 4 (OOP)/5.3.0.Using as Instance Properties.md": "LiClipboard",
-  "Python Deep Dive - 4 (OOP)/6.1.0.Making the Case for Enumerations.md": "LiClipboard"
+  "Python Deep Dive - 4 (OOP)/6.1.0.Making the Case for Enumerations.md": "LiClipboard",
+  "Python Deep Dive - 2 (Iterators_Generators)/2.8.0.The iter() Function.md": "LiClipboard"
 }

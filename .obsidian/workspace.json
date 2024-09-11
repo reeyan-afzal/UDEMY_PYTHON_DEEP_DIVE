@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python Deep Dive - 1 (Functional)/8.0.0.Extras.md",
+                "file": "Python Deep Dive - 2 (Iterators_Generators)/7.0.0.Generators as Coroutines.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python Deep Dive - 1 (Functional)/8.0.0.Extras.md",
+                "file": "Python Deep Dive - 2 (Iterators_Generators)/7.0.0.Generators as Coroutines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python Deep Dive - 1 (Functional)/8.0.0.Extras.md",
+                "file": "Python Deep Dive - 2 (Iterators_Generators)/7.0.0.Generators as Coroutines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python Deep Dive - 1 (Functional)/8.0.0.Extras.md"
+                "file": "Python Deep Dive - 2 (Iterators_Generators)/7.0.0.Generators as Coroutines.md"
               }
             }
           },
@@ -157,32 +157,32 @@
   },
   "active": "484760079083b237",
   "lastOpenFiles": [
-    "Python Deep Dive - 1 (Functional)/8.6.0.Random Seeds.md",
-    "Python Deep Dive - 1 (Functional)/8.0.0.Extras.md",
-    "Python Deep Dive - 1 (Functional)/0.1.0.Python Deep Dive 1.md",
-    "Python Deep Dive - 3 (Dictionaries_Sets_JSON)/0.3.0.Python Deep Dive 3.md",
-    "Python Deep Dive - 1 (Functional)/8.6.2.Random Samples.md",
-    "Python Deep Dive - 1 (Functional)/8.6.1.Random Choices.md",
-    "Python Deep Dive - 1 (Functional)/8.5.0.Additional Resources.md",
-    "Python Deep Dive - 1 (Functional)/8.7.0.Timing Code using timeit.md",
-    "Python Deep Dive - 1 (Functional)/8.8.0.Don't use args and kwargs Blindly.md",
-    "Python Deep Dive - 1 (Functional)/8.9.0.Command Line Arguments.md",
-    "Python Deep Dive - 1 (Functional)/8.10.0.Sentinel Values for Parameter Default.md",
-    "Python Deep Dive - 1 (Functional)/8.11.0.Simulating a Simple Switch in Python.md",
-    "Python Deep Dive - 1 (Functional)/8.4.4.Python 3.6 - f-Strings.md",
-    "Python Deep Dive - 1 (Functional)/8.4.3.Python 3.6 - Preserved Order of kwargs & Named Tuple Application.md",
-    "Python Deep Dive - 1 (Functional)/8.4.2.Python 3.6 - Underscores in Numeric Literals.md",
-    "Python Deep Dive - 1 (Functional)/8.4.1.Python 3.6 - Dictionary Ordering.md",
-    "Python Deep Dive - 1 (Functional)/8.2.0.Python 3.9.md",
-    "Python Deep Dive - 1 (Functional)/8.3.0.Python 3.8.md",
-    "Python Deep Dive - 1 (Functional)/8.1.0.Python 3.10.md",
-    "Python Deep Dive - 1 (Functional)/6.0.0.Tuples.md",
-    "Python Deep Dive - 1 (Functional)/7.0.0.Modules, Packages, and Namespaces.md",
-    "Python Deep Dive - 1 (Functional)/7.1.0.What is a Module.md",
-    "Python Deep Dive - 1 (Functional)/7.8.0.Importing from Zip Archives.md",
-    "Python Deep Dive - 1 (Functional)/7.7.0.Namespace Packages.md",
-    "Python Deep Dive - 1 (Functional)/7.6.3.Structuring Packages - Part 2.md",
-    "Python Deep Dive - 1 (Functional)/7.6.1.Why Packages.md",
+    "Python Deep Dive - 2 (Iterators_Generators)/7.9.1.Project Solution.md",
+    "Python Deep Dive - 2 (Iterators_Generators)/7.0.0.Generators as Coroutines.md",
+    "Python Deep Dive - 2 (Iterators_Generators)/7.9.0.Project Description.md",
+    "Python Deep Dive - 2 (Iterators_Generators)/7.8.3.Application - Pipelines - Broadcasting Data.md",
+    "Python Deep Dive - 2 (Iterators_Generators)/7.8.2.Application - Pipelines - Pushing Data.md",
+    "Python Deep Dive - 2 (Iterators_Generators)/7.8.1.Application - Pipelines - Pulling Data.md",
+    "Python Deep Dive - 2 (Iterators_Generators)/7.8.0.Application - Pipelines.md",
+    "Python Deep Dive - 2 (Iterators_Generators)/7.7.3.Yield From - Throwing Exceptions.md",
+    "Python Deep Dive - 2 (Iterators_Generators)/7.7.1.Yield From - Sending Data.md",
+    "Python Deep Dive - 2 (Iterators_Generators)/7.7.0.Yield From - Two-Way Communication.md",
+    "Python Deep Dive - 2 (Iterators_Generators)/7.6.0.Using Decorators to Prime Coroutines.md",
+    "Python Deep Dive - 2 (Iterators_Generators)/7.5.0.Sending Exceptions to Generators.md",
+    "Python Deep Dive - 2 (Iterators_Generators)/7.4.0.Closing Generators.md",
+    "Python Deep Dive - 2 (Iterators_Generators)/7.3.0.Sending to Generators.md",
+    "Python Deep Dive - 2 (Iterators_Generators)/7.2.0.Generator States.md",
+    "Python Deep Dive - 2 (Iterators_Generators)/7.1.0.Coroutines.md",
+    "Python Deep Dive - 2 (Iterators_Generators)/6.0.0.Extras.md",
+    "Python Deep Dive - 2 (Iterators_Generators)/6.1.2.Python 3.8 and 3.7.md",
+    "Python Deep Dive - 2 (Iterators_Generators)/6.1.1.Python 3.9.md",
+    "Python Deep Dive - 2 (Iterators_Generators)/6.1.0.Python 10.md",
+    "Python Deep Dive - 2 (Iterators_Generators)/5.0.0.Context Managers - Content.md",
+    "Python Deep Dive - 2 (Iterators_Generators)/5.8.2.Project Solution - Goal 2.md",
+    "Python Deep Dive - 2 (Iterators_Generators)/5.8.1.Project Solution - Goal 1.md",
+    "Python Deep Dive - 2 (Iterators_Generators)/5.8.0.Project Description.md",
+    "Python Deep Dive - 2 (Iterators_Generators)/5.7.0.Nested Context Managers.md",
+    "Python Deep Dive - 2 (Iterators_Generators)/5.6.0.The Context Manager Decorator.md",
     "Python Deep Dive - 2 (Iterators%2C Generators)",
     "Python Deep Dive - 4 (OOP)/Untitled",
     "Python Deep Dive - 1 (Functional)/4.14.0.The Operator Module.md~",
