@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python Deep Dive - 1 (Functional)/4.0.0.Functions.md",
+                "file": "Python Deep Dive - 1 (Functional)/8.0.0.Extras.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python Deep Dive - 1 (Functional)/4.0.0.Functions.md",
+                "file": "Python Deep Dive - 1 (Functional)/8.0.0.Extras.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python Deep Dive - 1 (Functional)/4.0.0.Functions.md",
+                "file": "Python Deep Dive - 1 (Functional)/8.0.0.Extras.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python Deep Dive - 1 (Functional)/4.0.0.Functions.md"
+                "file": "Python Deep Dive - 1 (Functional)/8.0.0.Extras.md"
               }
             }
           },
@@ -157,32 +157,32 @@
   },
   "active": "484760079083b237",
   "lastOpenFiles": [
-    "Python Deep Dive - 1 (Functional)/4.12.0.Reducing Functions.md",
-    "Python Deep Dive - 1 (Functional)/4.0.0.Functions.md",
-    "Python Deep Dive - 1 (Functional)/4.14.0.The Operator Module.md",
-    "Python Deep Dive - 1 (Functional)/4.9.0.Function Introspection.md",
-    "Python Deep Dive - 1 (Functional)/4.7.0.Lambda Expressions.md",
-    "Python Deep Dive - 1 (Functional)/4.3.3.Put It All Together.md",
-    "Python Deep Dive - 1 (Functional)/4.2.1.Extended Unpacking.md",
-    "Python Deep Dive - 1 (Functional)/3.0.0.Numeric Types.md",
-    "Python Deep Dive - 1 (Functional)/3.1.1.Integers Operations.md",
-    "Python Deep Dive - 1 (Functional)/2.0.0.Variables and Memory.md",
-    "Python Deep Dive - 1 (Functional)/3.3.0.Real Numbers Floats Internal Representation.md",
-    "Python Deep Dive - 1 (Functional)/4.11.0.Map Filter Zip and List Comprehensions.md",
-    "Python Deep Dive - 1 (Functional)/3.5.2.Booleans - Precedence and Short-Circuiting.md",
-    "Python Deep Dive - 1 (Functional)/3.4.0.Complex Numbers.md",
-    "Python Deep Dive - 1 (Functional)/3.3.5.Decimals Constructors and Contexts.md",
-    "Python Deep Dive - 1 (Functional)/3.3.3.Floats Rounding.md",
-    "Python Deep Dive - 1 (Functional)/3.3.4.Decimals.md",
-    "Python Deep Dive - 1 (Functional)/3.2.0.Rational Numbers.md",
-    "Python Deep Dive - 1 (Functional)/3.1.0.Integers Numbers.md",
-    "Python Deep Dive - 1 (Functional)/3.5.4.Booleans - Comparison Operators.md",
-    "Python Deep Dive - 1 (Functional)/3.5.3.Booleans - Boolean Operators.md",
-    "Python Deep Dive - 1 (Functional)/3.5.1.Booleans - Truth Values.md",
-    "Python Deep Dive - 1 (Functional)/3.5.0.Booleans.md",
-    "Python Deep Dive - 1 (Functional)/3.3.7.Decimals Performance Considerations.md",
-    "Python Deep Dive - 1 (Functional)/3.3.6.Decimals Math Operations.md",
-    "Python Deep Dive - 1 (Functional)/3.3.2.Floats Coercing to Integers.md",
+    "Python Deep Dive - 1 (Functional)/8.6.0.Random Seeds.md",
+    "Python Deep Dive - 1 (Functional)/8.0.0.Extras.md",
+    "Python Deep Dive - 1 (Functional)/0.1.0.Python Deep Dive 1.md",
+    "Python Deep Dive - 3 (Dictionaries_Sets_JSON)/0.3.0.Python Deep Dive 3.md",
+    "Python Deep Dive - 1 (Functional)/8.6.2.Random Samples.md",
+    "Python Deep Dive - 1 (Functional)/8.6.1.Random Choices.md",
+    "Python Deep Dive - 1 (Functional)/8.5.0.Additional Resources.md",
+    "Python Deep Dive - 1 (Functional)/8.7.0.Timing Code using timeit.md",
+    "Python Deep Dive - 1 (Functional)/8.8.0.Don't use args and kwargs Blindly.md",
+    "Python Deep Dive - 1 (Functional)/8.9.0.Command Line Arguments.md",
+    "Python Deep Dive - 1 (Functional)/8.10.0.Sentinel Values for Parameter Default.md",
+    "Python Deep Dive - 1 (Functional)/8.11.0.Simulating a Simple Switch in Python.md",
+    "Python Deep Dive - 1 (Functional)/8.4.4.Python 3.6 - f-Strings.md",
+    "Python Deep Dive - 1 (Functional)/8.4.3.Python 3.6 - Preserved Order of kwargs & Named Tuple Application.md",
+    "Python Deep Dive - 1 (Functional)/8.4.2.Python 3.6 - Underscores in Numeric Literals.md",
+    "Python Deep Dive - 1 (Functional)/8.4.1.Python 3.6 - Dictionary Ordering.md",
+    "Python Deep Dive - 1 (Functional)/8.2.0.Python 3.9.md",
+    "Python Deep Dive - 1 (Functional)/8.3.0.Python 3.8.md",
+    "Python Deep Dive - 1 (Functional)/8.1.0.Python 3.10.md",
+    "Python Deep Dive - 1 (Functional)/6.0.0.Tuples.md",
+    "Python Deep Dive - 1 (Functional)/7.0.0.Modules, Packages, and Namespaces.md",
+    "Python Deep Dive - 1 (Functional)/7.1.0.What is a Module.md",
+    "Python Deep Dive - 1 (Functional)/7.8.0.Importing from Zip Archives.md",
+    "Python Deep Dive - 1 (Functional)/7.7.0.Namespace Packages.md",
+    "Python Deep Dive - 1 (Functional)/7.6.3.Structuring Packages - Part 2.md",
+    "Python Deep Dive - 1 (Functional)/7.6.1.Why Packages.md",
     "Python Deep Dive - 2 (Iterators%2C Generators)",
     "Python Deep Dive - 4 (OOP)/Untitled",
     "Python Deep Dive - 1 (Functional)/4.14.0.The Operator Module.md~",
