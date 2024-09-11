@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6699d78a9e35f5a3",
+        "id": "59dfd19fb43366e2",
         "type": "tabs",
         "children": [
           {
-            "id": "484760079083b237",
+            "id": "3979c9421d7cbcf8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Python External Libraries/8.0.0.Matplotlib.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 391.5
+    "width": 312.5
   },
   "right": {
     "id": "73f204daf120e1a4",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Python External Libraries/8.0.0.Matplotlib.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Python External Libraries/8.0.0.Matplotlib.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Python External Libraries/8.0.0.Matplotlib.md"
+              }
             }
           },
           {
@@ -144,37 +152,39 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "3d-graph:3D Graph": false
     }
   },
-  "active": "484760079083b237",
+  "active": "3979c9421d7cbcf8",
   "lastOpenFiles": [
-    "Python Deep Dive - 4 (OOP)/8.0.0.MetaProgramming.md",
-    "Python Deep Dive - 4 (OOP)/8.14.2.Python 3.8 and 3.7.md",
-    "Python Deep Dive - 4 (OOP)/8.14.0.Python 3.10.md",
-    "Python Deep Dive - 4 (OOP)/8.13.0.Accessors - Application.md",
-    "Python Deep Dive - 4 (OOP)/8.12.0.Attribute Write Accessors.md",
-    "Python Deep Dive - 4 (OOP)/8.11.0.Attribute Read Accessors.md",
-    "Python Deep Dive - 4 (OOP)/8.10.2.Metaprogramming - Application 3.md",
-    "Python Deep Dive - 4 (OOP)/8.10.1.Metaprogramming - Application 2.md",
-    "Python Deep Dive - 4 (OOP)/8.10.0.Metaprogramming - Application 1.md",
-    "Python Deep Dive - 4 (OOP)/8.9.0.Classes, Metaclasses, and __call__.md",
-    "Python Deep Dive - 4 (OOP)/8.8.0.The __prepare__ Method.md",
-    "Python Deep Dive - 4 (OOP)/8.7.1.Metaclass vs Class Decorators.md",
-    "Python Deep Dive - 4 (OOP)/8.5.0.MetaClasses.md",
-    "Python Deep Dive - 4 (OOP)/8.4.0.Inherting from type.md",
-    "Python Deep Dive - 4 (OOP)/8.3.0.How Classes are Created.md",
-    "Python Deep Dive - 4 (OOP)/8.1.0.Decorators and Descriptors.md",
-    "Python Deep Dive - 4 (OOP)/7.5.1.Project Solution.md",
-    "Python Deep Dive - 4 (OOP)/7.0.0.Exceptions.md",
-    "Python Deep Dive - 4 (OOP)/5.0.0.Descriptors - Content.md",
-    "Python Deep Dive - 4 (OOP)/5.10.2.Project Solution - Part 2.md",
-    "Python Deep Dive - 4 (OOP)/5.10.1.Project Solution - Part 1.md",
-    "Python Deep Dive - 4 (OOP)/5.10.0.Project Description.md",
-    "().md",
-    "Python Deep Dive - 4 (OOP)/5.9.0.Functions and Descriptors.md",
-    "Python Deep Dive - 4 (OOP)/5.8.1.Application - Example 2.md",
-    "Python Deep Dive - 4 (OOP)/5.8.0.Application - Example 1.md",
+    "Python External Libraries/8.4.0.Charting with mplfinance.md",
+    "Python External Libraries/8.0.0.Matplotlib.md",
+    "Python External Libraries/8.3.0.More Plot Types.md",
+    "Python External Libraries/7.0.0.Pandas.md",
+    "Python External Libraries/7.9.0.Manipulating Data.md",
+    "Python External Libraries/6.0.0.NumPy.md",
+    "Python External Libraries/6.7.0.Masking.md",
+    "Python External Libraries/6.9.0.Additional Math and Stats Functions.md",
+    "Python External Libraries/6.6.0.Fancy Indexing.md",
+    "Python External Libraries/6.4.0.Indexing.md",
+    "Python External Libraries/6.3.0.Stacking Arrays.md",
+    "Python External Libraries/6.2.0.Reshaping Arrays.md",
+    "Python External Libraries/6.1.0.Creating Arrays from Lists.md",
+    "Python External Libraries/5.0.0.Third-Party Libraries.md",
+    "Python External Libraries/5.5.0.The requests Library.md",
+    "Python External Libraries/4.0.0.Math and Statistics.md",
+    "Python External Libraries/4.2.0.Statistics Module.md",
+    "Python External Libraries/3.4.0.Writing CSV Files.md",
+    "Python External Libraries/4.1.0.Math Module.md",
+    "Python External Libraries/3.0.0.CSV Module.md",
+    "Python External Libraries/3.3.0.More Examples Reading CSV Files.md",
+    "Python External Libraries/3.1.0.Reading CSV Files.md",
+    "Python External Libraries/2.0.0.Dates and Times.md",
+    "Python External Libraries/2.4.0.Custom Representations.md",
+    "Python External Libraries/2.3.0.Naive and Aware Times.md",
+    "Python External Libraries/2.1.0.The time Module.md",
+    "Python External Libraries",
     "Python Deep Dive - 2 (Iterators%2C Generators)",
     "Python Deep Dive - 4 (OOP)/Untitled",
     "Python Deep Dive - 1 (Functional)/4.14.0.The Operator Module.md~",
@@ -185,7 +195,6 @@
     "Python Deep Dive - 1 (Functional)/4.10.0.Callables.md~",
     "Python Deep Dive - 1 (Functional)/4.9.0.Function Introspection.md~",
     "Python Deep Dive - 1 (Functional)/4.8.0.Challenge - Randomize an Iterable using Sorted!.md~",
-    "Python Deep Dive - 1 (Functional)/4.7.1.Lambdas and Sorting.md~",
     "Assets/course1_snippets/4.3.3.PutItAllTogether-1.png",
     "Assets/course1_snippets/4.3.3.PutItAllTogether-2.png",
     "Assets/course1_snippets/4.3.1.KeywordArguments-1.png",
