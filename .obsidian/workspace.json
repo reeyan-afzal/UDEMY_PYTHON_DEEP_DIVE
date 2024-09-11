@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python External Libraries/8.0.0.Matplotlib.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python External Libraries/8.0.0.Matplotlib.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python External Libraries/8.0.0.Matplotlib.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python External Libraries/8.0.0.Matplotlib.md"
+                "file": "README.md"
               }
             }
           },
@@ -156,10 +156,13 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "3979c9421d7cbcf8",
+  "active": "a1366621ffd90447",
   "lastOpenFiles": [
-    "Python External Libraries/8.4.0.Charting with mplfinance.md",
+    "Assets/graph_view.png",
+    "Python Deep Dive - 1 (Functional)/3.0.0.Numeric Types.md",
+    "README.md",
     "Python External Libraries/8.0.0.Matplotlib.md",
+    "Python External Libraries/8.4.0.Charting with mplfinance.md",
     "Python External Libraries/8.3.0.More Plot Types.md",
     "Python External Libraries/7.0.0.Pandas.md",
     "Python External Libraries/7.9.0.Manipulating Data.md",
@@ -181,9 +184,6 @@
     "Python External Libraries/3.3.0.More Examples Reading CSV Files.md",
     "Python External Libraries/3.1.0.Reading CSV Files.md",
     "Python External Libraries/2.0.0.Dates and Times.md",
-    "Python External Libraries/2.4.0.Custom Representations.md",
-    "Python External Libraries/2.3.0.Naive and Aware Times.md",
-    "Python External Libraries/2.1.0.The time Module.md",
     "Python External Libraries",
     "Python Deep Dive - 2 (Iterators%2C Generators)",
     "Python Deep Dive - 4 (OOP)/Untitled",
@@ -203,7 +203,6 @@
     "Assets/Screenshot 2024-08-26 at 11.45.22 AM.png",
     "Assets/course1_snippets/3.5.0.Booleans-1.png",
     "Assets/course1_snippets/3.2.0.RationalNumbers.png",
-    "Assets/course1_snippets/3.1.1.IntegersOperations-1.png",
     "Python Deep Dive - 1 (Functional)/Untitled.canvas"
   ]
 }
