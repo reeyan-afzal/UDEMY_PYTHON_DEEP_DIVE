@@ -19,4 +19,4 @@ ___
 ### [Python External Libraries](https://github.com/reeyan-afzal/UDEMY_PYTHON_DEEP_DIVE/blob/main/Python%20External%20Libraries/0.5.0.Python%20External%20Libraries.md)
 
 ___
-![README](../Assets/graph_view.png)
+![README](Assets/readme_graph_view.png)
