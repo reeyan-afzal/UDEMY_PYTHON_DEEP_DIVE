@@ -11,9 +11,11 @@
             "id": "3979c9421d7cbcf8",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Assets/graph_view.png"
+                "file": "Python External Libraries/0.5.0.Python External Libraries.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/graph_view.png",
+                "file": "Python External Libraries/0.5.0.Python External Libraries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/graph_view.png",
+                "file": "Python External Libraries/0.5.0.Python External Libraries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/graph_view.png"
+                "file": "Python External Libraries/0.5.0.Python External Libraries.md"
               }
             }
           },
@@ -153,11 +155,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a1366621ffd90447",
+  "active": "3979c9421d7cbcf8",
   "lastOpenFiles": [
-    "README.md",
+    "Python External Libraries/1.1.1.Writing Text Files.md",
     "Python External Libraries/0.5.0.Python External Libraries.md",
+    "Python External Libraries/1.0.0.Text Files.md",
+    "Python External Libraries/1.1.0.Reading Text Files.md",
+    "Python External Libraries/1.1.1.Writing Text Files.md~",
+    "Python External Libraries/1.1.0.Reading Text Files.md~",
+    "Python External Libraries/test.txt",
+    "Python External Libraries/1.0.0.Text Files (txt).md~",
+    "Python External Libraries/2.1.1.The datetime Module.md",
+    "Python External Libraries/test.py~",
+    "Python External Libraries/test.py",
+    "Python External Libraries/test.ipyb",
+    "Python External Libraries/Untitled.md",
     "Assets/graph_view.png",
+    "README.md",
     "Python Deep Dive - 1 (Functional)/5.1.0.Global and Local Scopes.md",
     "Python Deep Dive - 1 (Functional)/5.0.0.Decorators.md",
     "Python Deep Dive - 1 (Functional)/4.14.0.The Operator Module.md",
@@ -176,22 +190,10 @@
     "Python External Libraries/6.3.0.Stacking Arrays.md",
     "Python External Libraries/6.2.0.Reshaping Arrays.md",
     "Python External Libraries/6.1.0.Creating Arrays from Lists.md",
-    "Python External Libraries/5.0.0.Third-Party Libraries.md",
-    "Python External Libraries/5.5.0.The requests Library.md",
-    "Python External Libraries/4.0.0.Math and Statistics.md",
-    "Python External Libraries/4.2.0.Statistics Module.md",
-    "Python External Libraries/3.4.0.Writing CSV Files.md",
     "Python External Libraries",
     "Python Deep Dive - 2 (Iterators%2C Generators)",
     "Python Deep Dive - 4 (OOP)/Untitled",
-    "Python Deep Dive - 1 (Functional)/4.14.0.The Operator Module.md~",
-    "Python Deep Dive - 1 (Functional)/4.13.0.Partial Functions.md~",
-    "Python Deep Dive - 1 (Functional)/4.12.0.Reducing Functions.md~",
     "Assets/course1_snippets/4.11.0.Map,Filter,Zip,ListComprehension-1.png",
-    "Python Deep Dive - 1 (Functional)/4.11.0.Map, Filter, Zip and List Comprehensions.md~",
-    "Python Deep Dive - 1 (Functional)/4.10.0.Callables.md~",
-    "Python Deep Dive - 1 (Functional)/4.9.0.Function Introspection.md~",
-    "Python Deep Dive - 1 (Functional)/4.8.0.Challenge - Randomize an Iterable using Sorted!.md~",
     "Assets/course1_snippets/4.3.3.PutItAllTogether-1.png",
     "Assets/course1_snippets/4.3.3.PutItAllTogether-2.png",
     "Assets/course1_snippets/4.3.1.KeywordArguments-1.png",

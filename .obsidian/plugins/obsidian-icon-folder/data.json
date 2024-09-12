@@ -413,9 +413,7 @@
   "Python Deep Dive - 4 (OOP)/2.1.5.Project Solution - Interest Rate.md": "LiClipboard",
   "Python External Libraries": "LiFolder",
   "Python External Libraries/0.5.0.Python External Libraries.md": "🐍",
-  "Python External Libraries/1.0.0.Text Files (txt).md": "LiArchive",
   "Python External Libraries/1.1.0.Reading Text Files.md": "LiClipboard",
-  "Python External Libraries/1.1.2.Writing Text Files.md": "LiClipboard",
   "Python External Libraries/2.0.0.Dates and Times.md": "LiArchive",
   "Python External Libraries/2.1.0.The time Module.md": "LiClipboard",
   "Python External Libraries/2.1.1.The datetime Module.md": "LiClipboard",
@@ -461,5 +459,7 @@
   "Python External Libraries/3.0.0.CSV Module.md": "LiArchive",
   "Python External Libraries/5.0.0.Third-Party Libraries.md": "LiArchive",
   "Python External Libraries/5.1.0.The pytz Library.md": "LiClipboard",
-  "Python External Libraries/8.3.0.More Plot Types.md": "LiClipboard"
+  "Python External Libraries/8.3.0.More Plot Types.md": "LiClipboard",
+  "Python External Libraries/1.1.1.Writing Text Files.md": "LiClipboard",
+  "Python External Libraries/1.0.0.Text Files.md": "LiArchive"
 }
