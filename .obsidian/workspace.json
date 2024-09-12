@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python External Libraries/0.5.0.Python External Libraries.md",
+                "file": "Python External Libraries/1.1.1.Writing Text Files.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python External Libraries/0.5.0.Python External Libraries.md",
+                "file": "Python External Libraries/1.1.1.Writing Text Files.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python External Libraries/0.5.0.Python External Libraries.md",
+                "file": "Python External Libraries/1.1.1.Writing Text Files.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python External Libraries/0.5.0.Python External Libraries.md"
+                "file": "Python External Libraries/1.1.1.Writing Text Files.md"
               }
             }
           },
@@ -157,11 +157,14 @@
   },
   "active": "3979c9421d7cbcf8",
   "lastOpenFiles": [
-    "Python External Libraries/1.1.1.Writing Text Files.md",
-    "Python External Libraries/0.5.0.Python External Libraries.md",
-    "Python External Libraries/1.0.0.Text Files.md",
-    "Python External Libraries/1.1.0.Reading Text Files.md",
     "Python External Libraries/1.1.1.Writing Text Files.md~",
+    "Python Deep Dive - 1 (Functional)/4.7.0.Lambda Expressions.md",
+    "Python External Libraries/0.5.0.Python External Libraries.md",
+    "Python External Libraries/8.2.0.Multi Plots.md",
+    "Python External Libraries/7.7.0.Basic Data Analysis.md",
+    "Python External Libraries/1.0.0.Text Files.md",
+    "Python External Libraries/1.1.1.Writing Text Files.md",
+    "Python External Libraries/1.1.0.Reading Text Files.md",
     "Python External Libraries/1.1.0.Reading Text Files.md~",
     "Python External Libraries/test.txt",
     "Python External Libraries/1.0.0.Text Files (txt).md~",
@@ -187,9 +190,6 @@
     "Python External Libraries/6.9.0.Additional Math and Stats Functions.md",
     "Python External Libraries/6.6.0.Fancy Indexing.md",
     "Python External Libraries/6.4.0.Indexing.md",
-    "Python External Libraries/6.3.0.Stacking Arrays.md",
-    "Python External Libraries/6.2.0.Reshaping Arrays.md",
-    "Python External Libraries/6.1.0.Creating Arrays from Lists.md",
     "Python External Libraries",
     "Python Deep Dive - 2 (Iterators%2C Generators)",
     "Python Deep Dive - 4 (OOP)/Untitled",
