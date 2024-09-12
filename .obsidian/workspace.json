@@ -11,11 +11,9 @@
             "id": "3979c9421d7cbcf8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "Assets/graph_view.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Assets/graph_view.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Assets/graph_view.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Assets/graph_view.png"
               }
             }
           },
@@ -155,15 +153,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3979c9421d7cbcf8",
+  "active": "a1366621ffd90447",
   "lastOpenFiles": [
+    "README.md",
     "Python External Libraries/0.5.0.Python External Libraries.md",
-    "Assets/readme_graph_view.png",
+    "Assets/graph_view.png",
     "Python Deep Dive - 1 (Functional)/5.1.0.Global and Local Scopes.md",
     "Python Deep Dive - 1 (Functional)/5.0.0.Decorators.md",
     "Python Deep Dive - 1 (Functional)/4.14.0.The Operator Module.md",
     "Python Deep Dive - 1 (Functional)/4.0.0.Functions.md",
-    "README.md",
     "Python Deep Dive - 1 (Functional)/3.0.0.Numeric Types.md",
     "Python External Libraries/8.0.0.Matplotlib.md",
     "Python External Libraries/8.4.0.Charting with mplfinance.md",
