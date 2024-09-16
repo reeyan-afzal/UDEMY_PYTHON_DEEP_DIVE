@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python Deep Dive - 1 (Functional)/5.1.0.Global and Local Scopes.md",
+                "file": "Python Deep Dive - 1 (Functional)/5.0.0.Decorators.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python Deep Dive - 1 (Functional)/5.1.0.Global and Local Scopes.md",
+                "file": "Python Deep Dive - 1 (Functional)/5.0.0.Decorators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python Deep Dive - 1 (Functional)/5.1.0.Global and Local Scopes.md",
+                "file": "Python Deep Dive - 1 (Functional)/5.0.0.Decorators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python Deep Dive - 1 (Functional)/5.1.0.Global and Local Scopes.md"
+                "file": "Python Deep Dive - 1 (Functional)/5.0.0.Decorators.md"
               }
             }
           },
@@ -157,10 +157,24 @@
   },
   "active": "3979c9421d7cbcf8",
   "lastOpenFiles": [
+    "Python Deep Dive - 1 (Functional)/5.1.1.NonLocal Scopes.md",
     "Python Deep Dive - 1 (Functional)/5.0.0.Decorators.md",
+    "Python Deep Dive - 1 (Functional)/5.1.0.Global and Local Scopes.md",
+    "Python Deep Dive - 1 (Functional)/5.1.1.NonLocal Scopes.md~",
+    "Assets/course1_snippets/5.1.1.NonLocalScopes-5.png",
+    "Assets/course1_snippets/5.1.1.NonLocalScopes-4.png",
+    "Assets/course1_snippets/5.1.1.NonLocalScopes-3.png",
+    "Assets/course1_snippets/5.1.1.NonLocalScopes-2.png",
+    "Assets/course1_snippets/5.1.1.NonLocalScopes-1.png",
     "Python Deep Dive - 1 (Functional)/4.0.0.Functions.md",
-    "Python Deep Dive - 1 (Functional)/2.0.0.Variables and Memory.md",
+    "Python Deep Dive - 1 (Functional)/5.1.0.Global and Local Scopes.md~",
+    "Python Deep Dive - 1 (Functional)/8.0.0.Extras.md",
+    "Assets/course1_snippets/5.1.0.GlobalandLocalScopes-4.png",
+    "Assets/course1_snippets/5.1.0.GlobalandLocalScopes-3.png",
+    "Assets/course1_snippets/5.1.0.GlobalandLocalScopes-2.png",
     "Python Deep Dive - 1 (Functional)/3.0.0.Numeric Types.md",
+    "Assets/course1_snippets/5.1.0.GlobalandLocalScopes-1.png",
+    "Python Deep Dive - 1 (Functional)/2.0.0.Variables and Memory.md",
     "Python Deep Dive - 1 (Functional)/1.0.0.Quick Refresher.md",
     "Python Deep Dive - 1 (Functional)/2.12.0.Python Optimizations - String Interning.md",
     "Python Deep Dive - 1 (Functional)/2.0.0.Variables and Memory.md~",
@@ -180,29 +194,14 @@
     "Python External Libraries/1.0.0.Text Files (txt).md~",
     "Python External Libraries/2.1.1.The datetime Module.md",
     "Python External Libraries/test.py~",
-    "Python External Libraries/test.py",
-    "Python External Libraries/test.ipyb",
     "Python External Libraries/Untitled.md",
     "Assets/graph_view.png",
     "README.md",
-    "Python Deep Dive - 1 (Functional)/5.1.0.Global and Local Scopes.md",
     "Python Deep Dive - 1 (Functional)/4.14.0.The Operator Module.md",
     "Python External Libraries/8.0.0.Matplotlib.md",
     "Python External Libraries/8.4.0.Charting with mplfinance.md",
     "Python External Libraries/8.3.0.More Plot Types.md",
     "Python External Libraries/7.0.0.Pandas.md",
-    "Python External Libraries/7.9.0.Manipulating Data.md",
-    "Python External Libraries/6.0.0.NumPy.md",
-    "Python External Libraries/6.7.0.Masking.md",
-    "Assets/course1_snippets/4.11.0.Map,Filter,Zip,ListComprehension-1.png",
-    "Assets/course1_snippets/4.3.3.PutItAllTogether-1.png",
-    "Assets/course1_snippets/4.3.3.PutItAllTogether-2.png",
-    "Assets/course1_snippets/4.3.1.KeywordArguments-1.png",
-    "Assets/course1_snippets/4.2.0.UnpackingIterables-1.png",
-    "Assets/Screenshot 2024-08-27 at 1.42.06 PM.png",
-    "Assets/Screenshot 2024-08-26 at 11.45.22 AM.png",
-    "Assets/course1_snippets/3.5.0.Booleans-1.png",
-    "Assets/course1_snippets/3.2.0.RationalNumbers.png",
     "Python Deep Dive - 1 (Functional)/Untitled.canvas"
   ]
 }
