@@ -77,11 +77,6 @@
   "Python Deep Dive - 1 (Functional)/5.4.0.Decorator Application - Timer.md": "LiClipboard",
   "Python Deep Dive - 1 (Functional)/5.4.1.Decorator Application - Logger, Stacked Decorators.md": "LiClipboard",
   "Python Deep Dive - 1 (Functional)/5.4.2.Decorator Application - Memoization.md": "LiClipboard",
-  "Python Deep Dive - 1 (Functional)/5.4.3.Decorator Application - Decorator Class.md": "LiClipboard",
-  "Python Deep Dive - 1 (Functional)/5.4.4.Decorator Application - Decorating Classes.md": "LiClipboard",
-  "Python Deep Dive - 1 (Functional)/5.4.5.Decorator Application - Dispatching - Part 1.md": "LiClipboard",
-  "Python Deep Dive - 1 (Functional)/5.4.6.Decorator Application - Dispatching - Part 2.md": "LiClipboard",
-  "Python Deep Dive - 1 (Functional)/5.4.7.Decorator Application - Dispatching - Part 3.md": "LiClipboard",
   "Python Deep Dive - 1 (Functional)/5.3.0.Decorators - Part 1.md": "LiClipboard",
   "Python Deep Dive - 1 (Functional)/6.1.0.Tuples as Data Structures.md": "LiClipboard",
   "Python Deep Dive - 1 (Functional)/6.2.0.Named Tuples.md": "LiClipboard",
@@ -461,5 +456,11 @@
   "Python External Libraries/5.1.0.The pytz Library.md": "LiClipboard",
   "Python External Libraries/8.3.0.More Plot Types.md": "LiClipboard",
   "Python External Libraries/1.1.1.Writing Text Files.md": "LiClipboard",
-  "Python External Libraries/1.0.0.Text Files.md": "LiArchive"
+  "Python External Libraries/1.0.0.Text Files.md": "LiArchive",
+  "Python Deep Dive - 1 (Functional)/5.5.0.Decorators - Part 2 (Factories).md": "LiClipboard",
+  "Python Deep Dive - 1 (Functional)/5.6.0.Decorator Application - Decorator Class.md": "LiClipboard",
+  "Python Deep Dive - 1 (Functional)/5.6.1.Decorator Application - Decorating Classes.md": "LiClipboard",
+  "Python Deep Dive - 1 (Functional)/5.6.2.Decorator Application - Dispatching - Part 1.md": "LiClipboard",
+  "Python Deep Dive - 1 (Functional)/5.6.3.Decorator Application - Dispatching - Part 2.md": "LiClipboard",
+  "Python Deep Dive - 1 (Functional)/5.6.4.Decorator Application - Dispatching - Part 3.md": "LiClipboard"
 }
