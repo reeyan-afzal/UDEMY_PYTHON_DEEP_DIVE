@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python Deep Dive - 1 (Functional)/7.0.0.Modules, Packages, and Namespaces.md",
+                "file": "Python Deep Dive - 1 (Functional)/6.0.0.Tuples.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python Deep Dive - 1 (Functional)/7.0.0.Modules, Packages, and Namespaces.md",
+                "file": "Python Deep Dive - 1 (Functional)/6.0.0.Tuples.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python Deep Dive - 1 (Functional)/7.0.0.Modules, Packages, and Namespaces.md",
+                "file": "Python Deep Dive - 1 (Functional)/6.0.0.Tuples.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python Deep Dive - 1 (Functional)/7.0.0.Modules, Packages, and Namespaces.md"
+                "file": "Python Deep Dive - 1 (Functional)/6.0.0.Tuples.md"
               }
             }
           },
@@ -157,11 +157,11 @@
   },
   "active": "3979c9421d7cbcf8",
   "lastOpenFiles": [
+    "Python Deep Dive - 1 (Functional)/7.0.0.Modules, Packages, and Namespaces.md",
     "Python Deep Dive - 1 (Functional)/7.0.0.Modules, Packages, and Namespaces.md~",
     "Python Deep Dive - 1 (Functional)/4.0.0.Functions.md",
     "Python Deep Dive - 1 (Functional)/5.0.0.Decorators.md",
     "Python Deep Dive - 1 (Functional)/6.0.0.Tuples.md",
-    "Python Deep Dive - 1 (Functional)/7.0.0.Modules, Packages, and Namespaces.md",
     "Python Deep Dive - 1 (Functional)/6.2.2.Named Tuples - DocStrings and Default Values.md",
     "Python Deep Dive - 1 (Functional)/6.2.3.Named Tuples - Applications.md",
     "Python Deep Dive - 1 (Functional)/6.2.1.Named Tuples - Modifying and Extending.md",
