@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python Deep Dive - 1 (Functional)/6.0.0.Tuples.md",
+                "file": "Python Deep Dive - 1 (Functional)/7.0.0.Modules, Packages, and Namespaces.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python Deep Dive - 1 (Functional)/6.0.0.Tuples.md",
+                "file": "Python Deep Dive - 1 (Functional)/7.0.0.Modules, Packages, and Namespaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python Deep Dive - 1 (Functional)/6.0.0.Tuples.md",
+                "file": "Python Deep Dive - 1 (Functional)/7.0.0.Modules, Packages, and Namespaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python Deep Dive - 1 (Functional)/6.0.0.Tuples.md"
+                "file": "Python Deep Dive - 1 (Functional)/7.0.0.Modules, Packages, and Namespaces.md"
               }
             }
           },
@@ -157,51 +157,52 @@
   },
   "active": "3979c9421d7cbcf8",
   "lastOpenFiles": [
+    "Python Deep Dive - 1 (Functional)/7.7.0.Namespace Packages.md",
     "Python Deep Dive - 1 (Functional)/7.0.0.Modules, Packages, and Namespaces.md",
+    "Python Deep Dive - 1 (Functional)/7.6.1.Why Packages.md",
+    "Python Deep Dive - 1 (Functional)/7.6.0.What is a Package.md",
+    "Python Deep Dive - 1 (Functional)/8.11.0.Simulating a Simple Switch in Python.md",
+    "Python Deep Dive - 1 (Functional)/0.1.0.Python Deep Dive 1.md",
+    "Python Deep Dive - 1 (Functional)/7.8.0.Importing from Zip Archives.md",
+    "Python Deep Dive - 1 (Functional)/7.7.0.Namespace Packages.md~",
+    "Assets/course1_snippets/7.7.0.NamespacePackages-1.png",
+    "Python Deep Dive - 1 (Functional)/7.6.2.Structuring Packages - Part 1.md",
+    "Python Deep Dive - 1 (Functional)/7.6.1.Why Packages.md~",
+    "Assets/course1_snippets/7.6.1.WhyPackages-2.png",
+    "Assets/course1_snippets/7.6.1.WhyPackages-1.png",
+    "Python Deep Dive - 1 (Functional)/7.6.0.What is a Package.md~",
+    "Python Deep Dive - 1 (Functional)/7.5.0.Modules Recap.md",
+    "Python Deep Dive - 1 (Functional)/7.5.0.Modules Recap.md~",
+    "Python Deep Dive - 1 (Functional)/7.4.0.__main__.md",
+    "Python Deep Dive - 1 (Functional)/7.3.0.Reloading Modules.md",
+    "Python Deep Dive - 1 (Functional)/7.2.2.Import Variants and Misconceptions.md~",
+    "Python Deep Dive - 1 (Functional)/7.2.2.Import Variants and Misconceptions.md",
+    "Python Deep Dive - 1 (Functional)/7.2.1.Imports and ImportLib.md",
+    "Python Deep Dive - 1 (Functional)/7.2.0.How does Python Import Modules.md",
+    "Python Deep Dive - 1 (Functional)/7.1.0.What is a Module.md",
+    "Python Deep Dive - 1 (Functional)/7.2.1.Imports and ImportLib.md~",
+    "Python Deep Dive - 2 (Iterators_Generators)/1.13.0.Project Description.md",
+    "Python Deep Dive - 1 (Functional)/8.0.0.Extras.md",
+    "Python Deep Dive - 1 (Functional)/7.6.3.Structuring Packages - Part 2.md",
+    "Python Deep Dive - 1 (Functional)/7.1.0.What is a Module.md~",
+    "Python Deep Dive - 1 (Functional)/6.0.0.Tuples.md",
     "Python Deep Dive - 1 (Functional)/7.0.0.Modules, Packages, and Namespaces.md~",
     "Python Deep Dive - 1 (Functional)/4.0.0.Functions.md",
     "Python Deep Dive - 1 (Functional)/5.0.0.Decorators.md",
-    "Python Deep Dive - 1 (Functional)/6.0.0.Tuples.md",
     "Python Deep Dive - 1 (Functional)/6.2.2.Named Tuples - DocStrings and Default Values.md",
     "Python Deep Dive - 1 (Functional)/6.2.3.Named Tuples - Applications.md",
     "Python Deep Dive - 1 (Functional)/6.2.1.Named Tuples - Modifying and Extending.md",
     "Python Deep Dive - 1 (Functional)/6.2.0.Named Tuples.md",
     "Python Deep Dive - 1 (Functional)/6.2.3.Named Tuples - Applications.md~",
     "Python Deep Dive - 1 (Functional)/6.2.2.Named Tuples - DocStrings and Default Values.md~",
-    "Python Deep Dive - 1 (Functional)/6.2.1.Named Tuples - Modifying and Extending.md~",
     "Python Deep Dive - 1 (Functional)/6.1.0.Tuples as Data Structures.md",
-    "Python Deep Dive - 1 (Functional)/6.2.0.Named Tuples.md~",
     "Assets/course1_snippets/6.2.0.NamedTuples-2.png",
     "Assets/course1_snippets/6.2.0.NamedTuples-1.png",
-    "Python Deep Dive - 1 (Functional)/5.5.0.Decorators - Part 2 (Factories).md",
-    "Python Deep Dive - 1 (Functional)/6.1.0.Tuples as Data Structures.md~",
-    "Python Deep Dive - 1 (Functional)/5.4.0.Decorator Application - Timer.md",
-    "Python Deep Dive - 1 (Functional)/5.6.4.Decorator Application - Dispatching - Part 3.md",
-    "Python Deep Dive - 1 (Functional)/5.6.0.Decorator Application - Decorator Class.md",
-    "Python Deep Dive - 1 (Functional)/5.6.3.Decorator Application - Dispatching - Part 2.md",
-    "Python Deep Dive - 1 (Functional)/5.6.2.Decorator Application - Dispatching - Part 1.md",
-    "Python Deep Dive - 1 (Functional)/5.6.1.Decorator Application - Decorating Classes.md",
-    "Python Deep Dive - 1 (Functional)/5.6.4.Decorator Application - Dispatching - Part 3.md~",
-    "Python Deep Dive - 1 (Functional)/5.6.3.Decorator Application - Dispatching - Part 2.md~",
-    "Python Deep Dive - 1 (Functional)/5.6.2.Decorator Application - Dispatching - Part 1.md~",
-    "Python Deep Dive - 1 (Functional)/0.1.0.Python Deep Dive 1.md",
-    "Python Deep Dive - 1 (Functional)/5.4.1.Decorator Application - Logger, Stacked Decorators.md",
-    "Python Deep Dive - 1 (Functional)/5.6.1.Decorator Application - Dispatching - Part 1.md~",
-    "Python Deep Dive - 1 (Functional)/5.3.0.Decorators - Part 1.md",
-    "Python Deep Dive - 1 (Functional)/5.2.0.Closures.md",
-    "Python Deep Dive - 1 (Functional)/5.4.2.Decorator Application - Memoization.md",
-    "Python Deep Dive - 1 (Functional)/7.1.0.What is a Module.md",
     "Assets/course1_snippets/5.3.0.Decorators-Part1-1.png",
-    "Python Deep Dive - 1 (Functional)/5.2.1.Closures - Application - Part 1.md",
-    "Python Deep Dive - 1 (Functional)/5.2.2.Closures - Application - Part 2.md",
     "Assets/course1_snippets/5.2.0.Closures-2.png",
     "Assets/course1_snippets/5.2.0.Closures-1.png",
-    "Python Deep Dive - 1 (Functional)/5.1.1.NonLocal Scopes.md",
     "Assets/course1_snippets/5.1.1.NonLocalScopes-5.png",
     "Assets/course1_snippets/5.1.1.NonLocalScopes-4.png",
-    "Assets/course1_snippets/5.1.1.NonLocalScopes-3.png",
-    "Assets/course1_snippets/5.1.1.NonLocalScopes-2.png",
-    "Assets/course1_snippets/5.1.1.NonLocalScopes-1.png",
     "Python Deep Dive - 1 (Functional)/Untitled.canvas"
   ]
 }
