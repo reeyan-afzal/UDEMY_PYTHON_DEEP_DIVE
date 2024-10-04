@@ -5,9 +5,9 @@
 #### [Udemy Python Deep Dive 3 - Dictionaries, Sets, JSON](https://www.udemy.com/course/python-3-deep-dive-part-3/)
 #### [Udemy Python Deep Dive 4 - OOP](https://www.udemy.com/course/python-3-deep-dive-part-4/)
 
-**Course Author: [Dr. Fred Baptiste](https://www.udemy.com/user/fredbaptiste/)** | [GitHub](https://github.com/fbaptiste)
+**Course Author: [Dr. Fred Baptiste](https://www.udemy.com/user/fredbaptiste/)** | [GitHub](https://github.com/fbaptiste/python-deepdive)
 
-This repository contains **obsidian notes** and **ipynb** files. I was following this course alongside my **[NAVTTC-PCAP](https://github.com/reeyan-afzal/NAVTTC_PCAP)** training. I got the chance to implement the things I learned in this course professionally.
+This repository contains **obsidian notes** and **ipynb** files. I was following this course alongside my **[NAVTTC-PCAP](https://github.com/reeyan-afzal/NAVTTC_PCAP)** training. I got the chance to implement what I learned in this course professionally.
 
 For a better visual experience try opening these notes in **[Obsidian](https://obsidian.md/)** (**in readmode**) and install all the plugins used in these notes, especially for running **Python** code.
 
