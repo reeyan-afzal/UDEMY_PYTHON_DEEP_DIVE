@@ -31,15 +31,15 @@ ___
 
 ___
 
-### Part 4 - Object Oriented Programming
+### Part 4 - Object-Oriented Programming
 
-|  MODULE   | EXERCISE                                                                                      |
-|:---------:|:----------------------------------------------------------------------------------------------|
-| Project 1 | [Project 1 - ](Part%204%20-%20Object%20Oriented%20Programming/1.%20Project/Project%201.ipynb) |
-| Project 2 | [Project 2 - ](Part%204%20-%20Object%20Oriented%20Programming/2.%20Project/Project%202.ipynb) |
-| Project 3 | [Project 3 - ](Part%204%20-%20Object%20Oriented%20Programming/3.%20Project/Project%203.ipynb) |
-| Project 4 | [Project 4 - ](Part%204%20-%20Object%20Oriented%20Programming/4.%20Project/Project%204.ipynb) |
-| Project 5 | [Project 5 - ](Part%204%20-%20Object%20Oriented%20Programming/5.%20Project/Project%205.ipynb) |
-| Project 6 | [Project 6 - ](Part%204%20-%20Object%20Oriented%20Programming/6.%20Project/Project%206.ipynb) |
+|  MODULE   | EXERCISE                                                                                    |
+|:---------:|:--------------------------------------------------------------------------------------------|
+| Project 1 | [Project 1 - ](Part%204%20-%20Object-Oriented%20Programming/1.%20Project/Project%201.ipynb) |
+| Project 2 | [Project 2 - ](Part%204%20-%20Object-Oriented%20Programming/2.%20Project/Project%202.ipynb) |
+| Project 3 | [Project 3 - ](Part%204%20-%20Object-Oriented%20Programming/3.%20Project/Project%203.ipynb) |
+| Project 4 | [Project 4 - ](Part%204%20-%20Object-Oriented%20Programming/4.%20Project/Project%204.ipynb) |
+| Project 5 | [Project 5 - ](Part%204%20-%20Object-Oriented%20Programming/5.%20Project/Project%205.ipynb) |
+| Project 6 | [Project 6 - ](Part%204%20-%20Object-Oriented%20Programming/6.%20Project/Project%206.ipynb) |
 
 ___
